@@ -1,7 +1,8 @@
 # Liposomal Glutathione vs Reduced Glutathione: Origin and Bioavailability  
 _Technical Whitepaper · Salugea_
 
-**Date:** [insert date]  
+**Original Publication Date:** October 7, 2022  
+**English Version Last Updated:** January 2025
 **Author:** Dr. Stefano Censani (Biologist & Naturopath)  
 
 ---
