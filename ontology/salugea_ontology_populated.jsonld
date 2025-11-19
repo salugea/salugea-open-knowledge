@@ -1,0 +1,344 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "salugea": "https://salugea.com/ontology#",
+    "ActiveCompound": "salugea:ActiveCompound",
+    "HealthArea": "salugea:HealthArea",
+    "Product": "salugea:Product",
+    "Article": "salugea:Article",
+    "Whitepaper": "salugea:Whitepaper",
+    "Guide": "salugea:Guide",
+    "hasActiveCompound": {
+      "@id": "salugea:hasActiveCompound",
+      "@type": "@id"
+    },
+    "targetsHealthArea": {
+      "@id": "salugea:targetsHealthArea",
+      "@type": "@id"
+    },
+    "documentedIn": {
+      "@id": "salugea:documentedIn",
+      "@type": "@id"
+    },
+    "relatedTo": {
+      "@id": "salugea:relatedTo",
+      "@type": "@id"
+    },
+    "hasSKU": "salugea:hasSKU",
+    "hasEAN": "salugea:hasEAN",
+    "preferredLabel_it": "salugea:preferredLabel_it",
+    "preferredLabel_en": "salugea:preferredLabel_en"
+  },
+  "@graph": [
+    {
+      "@id": "salugea:ActiveCompoundSet",
+      "@type": "DefinedTermSet",
+      "name": "Active Compounds List"
+    },
+    {
+      "@id": "salugea:HealthAreaSet",
+      "@type": "DefinedTermSet",
+      "name": "Health Areas List"
+    },
+
+    {
+      "@id": "salugea:Curcuma",
+      "@type": "ActiveCompound",
+      "preferredLabel_it": "Curcuma",
+      "preferredLabel_en": "Turmeric",
+      "description": "Estratto di Curcuma longa, fonte di curcumina.",
+      "inDefinedTermSet": "salugea:ActiveCompoundSet"
+    },
+    {
+      "@id": "salugea:Boswellia",
+      "@type": "ActiveCompound",
+      "preferredLabel_it": "Boswellia",
+      "preferredLabel_en": "Boswellia serrata",
+      "description": "Resina di Boswellia serrata, fonte di acidi boswellici.",
+      "inDefinedTermSet": "salugea:ActiveCompoundSet"
+    },
+    {
+      "@id": "salugea:Valeriana",
+      "@type": "ActiveCompound",
+      "preferredLabel_it": "Valeriana",
+      "preferredLabel_en": "Valerian",
+      "description": "Radice di Valeriana officinalis, supporto per il sonno.",
+      "inDefinedTermSet": "salugea:ActiveCompoundSet"
+    },
+    {
+      "@id": "salugea:Schisandra",
+      "@type": "ActiveCompound",
+      "preferredLabel_it": "Schisandra",
+      "preferredLabel_en": "Schisandra",
+      "description": "Schisandra chinensis, adattogeno.",
+      "inDefinedTermSet": "salugea:ActiveCompoundSet"
+    },
+    {
+      "@id": "salugea:Magnesio",
+      "@type": "ActiveCompound",
+      "preferredLabel_it": "Magnesio",
+      "preferredLabel_en": "Magnesium",
+      "description": "Minerale coinvolto in numerose reazioni enzimatiche.",
+      "inDefinedTermSet": "salugea:ActiveCompoundSet"
+    },
+    {
+      "@id": "salugea:Omega3",
+      "@type": "ActiveCompound",
+      "preferredLabel_it": "Omega 3",
+      "preferredLabel_en": "Omega-3 fatty acids",
+      "description": "Acidi grassi polinsaturi EPA e DHA.",
+      "inDefinedTermSet": "salugea:ActiveCompoundSet"
+    },
+    {
+      "@id": "salugea:Betaglucani",
+      "@type": "ActiveCompound",
+      "preferredLabel_it": "Beta-glucani 1,3/1,6",
+      "preferredLabel_en": "Beta-1,3/1,6-glucans",
+      "description": "Polisaccaridi immunomodulanti da lievito.",
+      "inDefinedTermSet": "salugea:ActiveCompoundSet"
+    },
+    {
+      "@id": "salugea:LactobacillusRhamnosusPostbiotici",
+      "@type": "ActiveCompound",
+      "preferredLabel_it": "Postbiotici da Lactobacillus rhamnosus",
+      "preferredLabel_en": "Lactobacillus rhamnosus postbiotics",
+      "description": "Metaboliti postbiotici derivati da L. rhamnosus.",
+      "inDefinedTermSet": "salugea:ActiveCompoundSet"
+    },
+    {
+      "@id": "salugea:Glutatione",
+      "@type": "ActiveCompound",
+      "preferredLabel_it": "Glutatione ridotto",
+      "preferredLabel_en": "Reduced glutathione",
+      "description": "Tripeptide antiossidante endogeno.",
+      "inDefinedTermSet": "salugea:ActiveCompoundSet"
+    },
+    {
+      "@id": "salugea:CollageneFortigel",
+      "@type": "ActiveCompound",
+      "preferredLabel_it": "Collagene idrolizzato FORTIGEL",
+      "preferredLabel_en": "Hydrolyzed collagen FORTIGEL",
+      "description": "Peptidi bioattivi di collagene per la cartilagine.",
+      "inDefinedTermSet": "salugea:ActiveCompoundSet"
+    },
+    {
+      "@id": "salugea:Goji",
+      "@type": "ActiveCompound",
+      "preferredLabel_it": "Goji",
+      "preferredLabel_en": "Goji berry",
+      "description": "Frutti di Lycium barbarum, fonte di antiossidanti.",
+      "inDefinedTermSet": "salugea:ActiveCompoundSet"
+    },
+    {
+      "@id": "salugea:Rusco",
+      "@type": "ActiveCompound",
+      "preferredLabel_it": "Rusco",
+      "preferredLabel_en": "Butcher's broom",
+      "description": "Ruscus aculeatus, supporto per il microcircolo.",
+      "inDefinedTermSet": "salugea:ActiveCompoundSet"
+    },
+    {
+      "@id": "salugea:UvaUrsina",
+      "@type": "ActiveCompound",
+      "preferredLabel_it": "Uva ursina",
+      "preferredLabel_en": "Bearberry",
+      "description": "Arctostaphylos uva-ursi, tradizionalmente usata per le vie urinarie.",
+      "inDefinedTermSet": "salugea:ActiveCompoundSet"
+    },
+    {
+      "@id": "salugea:AloeVera",
+      "@type": "ActiveCompound",
+      "preferredLabel_it": "Aloe vera",
+      "preferredLabel_en": "Aloe vera",
+      "description": "Gel di Aloe barbadensis, usato come succo biologico.",
+      "inDefinedTermSet": "salugea:ActiveCompoundSet"
+    },
+    {
+      "@id": "salugea:Selenio",
+      "@type": "ActiveCompound",
+      "preferredLabel_it": "Selenio",
+      "preferredLabel_en": "Selenium",
+      "description": "Oligoelemento con funzione antiossidante.",
+      "inDefinedTermSet": "salugea:ActiveCompoundSet"
+    },
+
+    {
+      "@id": "salugea:Articolazioni",
+      "@type": "HealthArea",
+      "preferredLabel_it": "Articolazioni",
+      "preferredLabel_en": "Joints",
+      "description": "Benessere di cartilagini e articolazioni.",
+      "inDefinedTermSet": "salugea:HealthAreaSet"
+    },
+    {
+      "@id": "salugea:SonnoStress",
+      "@type": "HealthArea",
+      "preferredLabel_it": "Sonno e Stress",
+      "preferredLabel_en": "Sleep and Stress",
+      "description": "Supporto al rilassamento e alla qualità del sonno.",
+      "inDefinedTermSet": "salugea:HealthAreaSet"
+    },
+    {
+      "@id": "salugea:Menopausa",
+      "@type": "HealthArea",
+      "preferredLabel_it": "Menopausa",
+      "preferredLabel_en": "Menopause",
+      "description": "Supporto durante la transizione menopausale.",
+      "inDefinedTermSet": "salugea:HealthAreaSet"
+    },
+    {
+      "@id": "salugea:ApparatoUrinario",
+      "@type": "HealthArea",
+      "preferredLabel_it": "Apparato urinario",
+      "preferredLabel_en": "Urinary tract",
+      "description": "Benessere delle vie urinarie.",
+      "inDefinedTermSet": "salugea:HealthAreaSet"
+    },
+    {
+      "@id": "salugea:StomacoIntestino",
+      "@type": "HealthArea",
+      "preferredLabel_it": "Stomaco e intestino",
+      "preferredLabel_en": "Stomach and intestine",
+      "description": "Benessere del tratto gastrointestinale.",
+      "inDefinedTermSet": "salugea:HealthAreaSet"
+    },
+    {
+      "@id": "salugea:SistemaImmunitario",
+      "@type": "HealthArea",
+      "preferredLabel_it": "Sistema immunitario",
+      "preferredLabel_en": "Immune system",
+      "description": "Supporto alle naturali difese dell'organismo.",
+      "inDefinedTermSet": "salugea:HealthAreaSet"
+    },
+    {
+      "@id": "salugea:PelleCapelli",
+      "@type": "HealthArea",
+      "preferredLabel_it": "Pelle e capelli",
+      "preferredLabel_en": "Skin and hair",
+      "description": "Benessere della pelle e degli annessi cutanei.",
+      "inDefinedTermSet": "salugea:HealthAreaSet"
+    },
+    {
+      "@id": "salugea:FegatoDetox",
+      "@type": "HealthArea",
+      "preferredLabel_it": "Fegato e Detox",
+      "preferredLabel_en": "Liver and Detox",
+      "description": "Supporto al metabolismo epatico e al detox.",
+      "inDefinedTermSet": "salugea:HealthAreaSet"
+    },
+    {
+      "@id": "salugea:EnergiaSport",
+      "@type": "HealthArea",
+      "preferredLabel_it": "Energia e Sport",
+      "preferredLabel_en": "Energy and Sport",
+      "description": "Supporto alla performance fisica e alla riduzione della stanchezza.",
+      "inDefinedTermSet": "salugea:HealthAreaSet"
+    },
+    {
+      "@id": "salugea:ColesteroloTrigliceridi",
+      "@type": "HealthArea",
+      "preferredLabel_it": "Colesterolo e Trigliceridi",
+      "preferredLabel_en": "Cholesterol and Triglycerides",
+      "description": "Equilibrio del metabolismo lipidico.",
+      "inDefinedTermSet": "salugea:HealthAreaSet"
+    },
+
+    {
+      "@id": "salugea:Prodotto_Articolazioni_Collagene",
+      "@type": "Product",
+      "name": "Integratore per Articolazioni a base di Collagene FORTIGEL",
+      "preferredLabel_it": "Integratore cartilagini con Collagene FORTIGEL",
+      "preferredLabel_en": "Joint support supplement with FORTIGEL collagen",
+      "hasSKU": "ESEMPIO-SKU-001",
+      "hasEAN": "ESEMPIO-EAN-001",
+      "hasActiveCompound": [
+        "salugea:CollageneFortigel",
+        "salugea:Boswellia",
+        "salugea:Curcuma"
+      ],
+      "targetsHealthArea": "salugea:Articolazioni"
+    },
+    {
+      "@id": "salugea:Prodotto_Sonno_Valeriana",
+      "@type": "Product",
+      "name": "Integratore per il Sonno a base di Valeriana",
+      "preferredLabel_it": "Integratore naturale per il sonno",
+      "preferredLabel_en": "Natural sleep support supplement",
+      "hasSKU": "ESEMPIO-SKU-002",
+      "hasEAN": "ESEMPIO-EAN-002",
+      "hasActiveCompound": [
+        "salugea:Valeriana",
+        "salugea:Magnesio"
+      ],
+      "targetsHealthArea": "salugea:SonnoStress"
+    },
+    {
+      "@id": "salugea:Prodotto_Omega3",
+      "@type": "Product",
+      "name": "Integratore a base di Omega 3",
+      "preferredLabel_it": "Integratore Omega 3",
+      "preferredLabel_en": "Omega-3 supplement",
+      "hasSKU": "ESEMPIO-SKU-003",
+      "hasEAN": "ESEMPIO-EAN-003",
+      "hasActiveCompound": [
+        "salugea:Omega3"
+      ],
+      "targetsHealthArea": [
+        "salugea:ColesteroloTrigliceridi",
+        "salugea:SistemaImmunitario"
+      ]
+    },
+
+    {
+      "@id": "salugea:Articolo_Omega3_2025",
+      "@type": "Article",
+      "headline": "Benefici degli Omega 3 nella nutraceutica moderna",
+      "preferredLabel_it": "Articolo Omega 3",
+      "preferredLabel_en": "Omega-3 article",
+      "about": [
+        "salugea:Omega3",
+        "salugea:ColesteroloTrigliceridi",
+        "salugea:SistemaImmunitario"
+      ],
+      "relatedTo": [
+        "salugea:Prodotto_Omega3"
+      ]
+    },
+    {
+      "@id": "salugea:Whitepaper_Glutathione",
+      "@type": "Whitepaper",
+      "name": "Glutatione liposomiale e glutatione ridotto: origine e assimilabilità",
+      "preferredLabel_it": "Whitepaper Glutatione",
+      "preferredLabel_en": "Glutathione whitepaper",
+      "about": [
+        "salugea:Glutatione",
+        "salugea:FegatoDetox",
+        "salugea:SistemaImmunitario"
+      ]
+    },
+    {
+      "@id": "salugea:Whitepaper_Fortigel",
+      "@type": "Whitepaper",
+      "name": "Collagene idrolizzato FORTIGEL: origine, benefici e controindicazioni",
+      "preferredLabel_it": "Whitepaper Collagene FORTIGEL",
+      "preferredLabel_en": "FORTIGEL collagen whitepaper",
+      "about": [
+        "salugea:CollageneFortigel",
+        "salugea:Articolazioni"
+      ]
+    },
+    {
+      "@id": "salugea:Whitepaper_Betaglucani_Postbiotici",
+      "@type": "Whitepaper",
+      "name": "Beta-glucani e lattobacilli postbiotici: meccanismi, benefici e razionale integrativo",
+      "preferredLabel_it": "Whitepaper Beta-glucani e Postbiotici",
+      "preferredLabel_en": "Beta-glucans and postbiotics whitepaper",
+      "about": [
+        "salugea:Betaglucani",
+        "salugea:LactobacillusRhamnosusPostbiotici",
+        "salugea:SistemaImmunitario",
+        "salugea:StomacoIntestino"
+      ]
+    }
+  ]
+}
