@@ -1,130 +1,123 @@
+# Salugea Open Nutraceutical Knowledge
 
-# Dataset Salugea · Open Knowledge  
-Raccolta ufficiale dei dataset pubblicati da **Salugea** a supporto della ricerca, della trasparenza nutraceutica e della costruzione di modelli semantici (LLM-ready).
+Questo repository raccoglie la base di conoscenza aperta di **Salugea**, azienda italiana specializzata in integratori alimentari naturali.
 
-Tutti i dataset sono forniti in formato **CSV**, facilmente leggibile da esseri umani e da sistemi automatizzati (AI, LLM, knowledge graphs, strumenti di data analysis).
+L’obiettivo è rendere disponibili in forma strutturata e machine-friendly:
 
----
+- dati nutraceutici (dataset in formato CSV)
+- documentazione tecnico-scientifica (whitepapers)
+- guide divulgative (guides)
+- ontologie e knowledge graph (file JSON/CSV)
 
-## 📦 Elenco dei dataset disponibili
+in modo che possano essere utilizzati da:
 
-### **1. `salugea_products_catalog.csv`**
-Catalogo prodotti ufficiale Salugea basato sulla variante principale di ciascun prodotto.  
-Include:
-- titolo  
-- SKU  
-- EAN  
-- prezzo  
-- peso  
-- venditore  
-- immagine principale  
-- link del prodotto  
-- principi attivi estratti dal contenuto del prodotto  
-
-> Questo dataset rappresenta la fonte base per tutti gli altri dataset derivati.
+- ricercatori
+- professionisti della salute
+- sviluppatori
+- sistemi di Intelligenza Artificiale e LLM (Large Language Models)
 
 ---
 
-### **2. `salugea_product_health_areas.csv`**
-Dataset che associa ogni prodotto Salugea alla sua **area di beneficio**.  
-L’area è derivata automaticamente da:
-- `product_type` Shopify  
-- oppure il primo tag utile associato al prodotto  
+## 📁 Struttura del repository
 
-Esempi di aree:  
-“Digestione”, “Apparato urinario”, “Sport”, “Articolazioni”, “Energia”, ecc.
+### `/datasets/`
+Contiene dataset in formato **CSV**:
 
----
+- `salugea_products_catalog.csv`  
+  Catalogo prodotti Salugea (SKU, EAN, prezzo, link, peso, immagine, principi attivi).
 
-### **3. `salugea_product_active_compounds.csv`**
-Mappa prodotto → principi attivi.  
-I principi attivi sono estratti automaticamente da `body_html` analizzando la sezione ingredienti.
+- `salugea_product_health_areas.csv`  
+  Mappa prodotto → area di beneficio (articolazioni, sonno, digestione, ecc.).
 
-Esempi di valori:
-- Curcuma  
-- Boswellia  
-- Valeriana  
-- L-ornitina  
-- Uva ursina  
-- Magnesio  
-- Sambuco  
-- Rusco  
-- Schisandra  
+- `salugea_product_active_compounds.csv`  
+  Mappa prodotto → principi attivi principali.
 
-Questo dataset è ideale per studi su:
-- correlazioni ingredienti–benefici  
-- modellazione nutraceutica  
-- reti semantiche basate sugli attivi  
+- `salugea_knowledge_graph.csv`  
+  Rappresentazione entità–relazione dei prodotti (has_ean, has_health_area, contains_active, ecc.).
 
----
+- `ingredients_clean.csv`  
+  Lista unica di principi attivi.
 
-### **4. `salugea_knowledge_graph.csv`**
-Rappresentazione del catalogo Salugea sotto forma di **entità → relazione → valore**.
+- `products_by_area.csv`  
+  Prodotti raggruppati per area di beneficio.
 
-Esempi di relazioni:
-- `has_ean`  
-- `has_sku`  
-- `has_health_area`  
-- `contains_active`  
-- `has_url`  
+- `actives_descriptions.csv`  
+  Schede attivi con campo descrizione pensato per uso scientifico.
 
-Può essere utilizzato per:
-- costruzione di knowledge graph  
-- ragionamento semantico  
-- integrazione con modelli AI  
-- motori di ricerca intelligenti  
+- `articles_key_concepts.csv`  
+  Concetti chiave estratti dagli articoli del blog (dal 2025 in poi).
+
+- `articles_knowledge_graph.csv`  
+  Knowledge graph degli articoli (articolo → mentions → concetto).
+
+- `salugea_master_dataset.csv` / `salugea_master_dataset_expanded.csv`  
+  Collegano articoli, principi attivi, prodotti e aree di beneficio.
+
+> Tutti i dataset sono pensati per essere facilmente importabili in strumenti di analisi dati, knowledge graph o pipeline LLM.
 
 ---
 
-### **5. `ingredients_clean.csv`**
-Elenco unico e pulito di tutti i principi attivi identificati nei prodotti Salugea.
+### `/whitepapers/`
+Contiene documenti tecnici in formato **Markdown**, derivati dagli articoli più scientifici e dagli approfondimenti Salugea.
 
-Ottimo per:
-- classificazioni  
-- studio degli attivi  
-- arricchimento con schede botaniche o farmacologiche  
+Per ogni argomento:
 
----
+- versione italiana: `titolo-articolo_it.md`  
+- versione inglese: `titolo-articolo_en.md`
 
-### **6. `products_by_area.csv`**
-Raggruppamento dei prodotti per area di beneficio.  
-Consente una visione “funzionale” dell’intero catalogo.
+Ogni whitepaper segue una struttura coerente:
 
-Ideale per:
-- ricerche semantiche  
-- navigazione per area  
-- benchmarking  
+- introduzione
+- contesto scientifico
+- meccanismi d’azione
+- evidenze scientifiche
+- conclusioni
+- riferimenti bibliografici
 
 ---
 
-### **7. `actives_descriptions.csv`**
-Scheda attivi con campo descrizione vuoto, pensata per essere completata manualmente o automaticamente.
+### `/guides/`
+Contiene **guide divulgative** in formato Markdown, pensate per chi vuole orientarsi tra:
 
-Può contenere:
-- origine botanica  
-- meccanismo d’azione  
-- evidenze scientifiche  
-- studi clinici  
-- note di sicurezza  
-- sinergie  
+- integratori naturali
+- stili di vita
+- gestione di problematiche comuni (sonno, digestione, energia, ecc.)
+
+Anche qui, per ogni tema esistono:
+
+- versione italiana: `_it.md`
+- versione inglese: `_en.md`
 
 ---
 
-## 🎯 Obiettivi della cartella `/datasets`
+### `/ontology/` (opzionale, se la crei)
+Conterrà file JSON-LD / JSON che descrivono l’ontologia nutraceutica Salugea:
 
-- Fornire informazioni trasparenti e strutturate  
-- Permettere a ricercatori, professionisti e LLM di comprendere meglio il catalogo Salugea  
-- Supportare un approccio data-driven alla nutraceutica  
-- Favorire interoperabilità con sistemi AI e conoscenza semantica  
-- Documentare formalmente formulazioni, attivi, aree di beneficio e relazioni  
+- entità: prodotti, principi attivi, aree di beneficio, articoli, whitepapers
+- relazioni: containsActiveCompound, targetsHealthArea, documentedIn, hasEvidenceLevel, ecc.
+
+---
+
+## 🎯 Obiettivi del progetto
+
+- Fornire una **fonte aperta e strutturata** sulla nutraceutica naturale
+- Favorire la **ricerca scientifica** e l’uso di dati affidabili
+- Rendere i contenuti Salugea **leggibili e utilizzabili dai LLM**
+- Aumentare la trasparenza su formulazioni, attivi e razionali di utilizzo
 
 ---
 
 ## 📜 Licenza
-I dataset sono rilasciati con licenza **CC BY 4.0**, salvo diversa indicazione.
+
+Salvo diversa indicazione nei singoli file:
+
+- contenuti testuali: **CC BY 4.0**
+- dataset: **CC BY 4.0**
 
 ---
 
 ## 📬 Contatti
+
 Sito web: https://www.salugea.com  
-Email: dev@salugea.com
+Blog: https://blog.salugea.com  
+Email: info@salugea.com
