@@ -1,310 +1,112 @@
-# Alimenti ricchi di Ferro: ecco quali scegliere! (English Version)
+# Iron-rich Foods: here is which ones to choose! (English Version)
 
 **Original Date:** 2025-01-22
 
-_This is the English version placeholder. Content will be translated._
+Are you browsing the web to find out which are the **foods rich in Iron**? You are in exactly the right article! After reading it, you will no longer have doubts about the foods to choose because they are rich in this precious nutrient.
 
+Here is the detailed index of the topics you will have the opportunity to deepen:
 
+* Iron in food is not all the same: the difference between Heme Iron and Non-heme Iron
+* Foods rich in Heme Iron: detailed list
+* Foods rich in Non-heme Iron: detailed list
+* The recommended daily intake of Iron
+* Causes of Iron deficiency and how to integrate it naturally
 
-Stai navigando sul web per scoprire quali sono gli 
-alimenti ricchi di Ferro
-? Sei proprio nell’articolo giusto! Dopo la sua lettura non avrai più dubbi sugli alimenti da scegliere perché ricchi di questo prezioso nutriente.
+Speaking of supplementation. We indicate here a **100% natural Iron supplement**, in which you find the **maximum daily Iron intake** allowed (**30 mg**), without causing stomach heaviness.
 
+Now we can start our journey to discover **food sources of Iron**. Enjoy reading!
 
-Ecco l’indice dettagliato degli argomenti che avrai modo di approfondire:
+## The difference between Heme Iron and Non-heme Iron
 
+If you are looking for **foods rich in Iron**, it is probably because you are not sure you are getting enough. Did I guess right?
 
+Iron is a fundamental nutrient for the well-being of the organism and its deficiency can lead to a condition of **iron deficiency anemia**, very frequent in women and among athletes. Iron deficiency is common especially in women of childbearing age, usually due to particularly heavy menstrual flow.
 
+**It is possible to take an adequate amount of Iron with diet**, provided you know what the richest food sources of this precious mineral are. And in this regard, you must know that there are two types of Iron:
 
-Il Ferro negli alimenti non è tutto uguale: la differenza tra Ferro eme e Ferro non eme
+* **Heme Iron**: present in foods of animal origin
+* **Non-heme Iron**: present in foods of vegetable origin
 
+The difference between these two types of Iron lies in their assimilability. Compared to non-heme Iron, heme Iron is more easily assimilated by the body. Not everyone knows that it is possible to promote Iron absorption thanks to **Vitamin C**.
 
-Gli alimenti ricchi di Ferro eme: lista dettagliata
+A little trick to assimilate the Iron present in foods is to **add a few drops of lemon juice**. This applies whether it refers to foods of vegetable origin like green leafy vegetables, or foods of animal origin like meat.
 
+## Why Iron is important
 
-Gli alimenti ricchi di Ferro non eme: lista dettagliata
+Iron is an important mineral because it participates in the formation of red blood cells and that of **hemoglobin**, a protein involved in the transport of Oxygen to the body.
 
+Symptoms such as tiredness, dizziness, mental confusion, and fatigue could represent alarm bells to pay attention to. If you feel this way, talk to your doctor and among the next blood tests remember to also check the levels of:
 
-Il fabbisogno giornaliero consigliato di Ferro
+* **sideremia** (serum iron): a test that indicates the amount of Iron present in the blood
+* **ferritin**: a test that indicates the Iron reserves available to the body
+* **complete blood count (CBC)**: which provides a detailed picture of the value of hemoglobin and red blood cells
 
+Now that you have discovered the difference between Heme Iron and Non-heme Iron, we can move on to foods rich in this element and we will start with those of animal origin.
 
-Cause di una carenza di Ferro e come integrarlo naturalmente
 
+## Foods rich in Heme Iron
 
+Have you already grabbed pen and paper? If you haven't taken them yet, get them immediately because there are some notes to take. The list of **foods rich in Heme Iron** includes:
 
+* veal and beef
+* chicken
+* eggs
+* pork
+* oily fish (blue fish)
 
-A proposito di integrazione. Ti indichiamo qui un 
-integratore di Ferro 100% naturale
-, 
- nel quale trovi il 
-massimo apporto di Ferro
- giornaliero consentito (
-30 mg)
-, senza causare pesantezza di stomaco.
+## Foods rich in Non-heme Iron
 
+Are you following a vegetarian diet and want to know which plant foods are richest in Iron? Said and done! Here is a list of **foods containing Non-heme Iron**:
 
+* lentils
+* beans
+* mung beans
+* spinach
+* tofu
+* tempeh
+* dark green leafy vegetables
+* broccoli
+* seeds and dried fruit/nuts
+* green beans
+* peas
 
+If you follow a vegan or vegetarian diet, **you can optimize intestinal Iron absorption by consuming vegetables containing vitamin C during main meals**.
 
-Ora possiamo iniziare il nostro viaggio alla scoperta delle 
-fonti alimentari di Ferro
-. Buona lettura!
+## The recommended Iron requirement
 
+Iron requirements vary based on sex, age, and the person's condition. For example, in pregnancy and breastfeeding, its requirement increases significantly to meet the needs of the mother and the unborn child.
 
-La differenza tra Ferro eme e Ferro non eme
+According to what is indicated in the LARN (Reference Intake Levels of Nutrients), the recommended daily Iron requirement is:
 
+* 7 mg for men aged between 18 and 69 years
+* 10 mg for women aged between 18 and 59 years
+* 22 mg for pregnant women
+* 8 mg during breastfeeding
 
-Se stai cercando gli 
-alimenti ricchi di Ferro
-, probabilmente è perché non sei sicuro di assumerne abbastanza. Ho indovinato?
+A varied and balanced diet is the best means to ensure the body has an adequate amount of this mineral. In case of Iron values lower than those considered normal, it is possible to associate specific natural supplementation with the diet.
 
+## Causes of Iron deficiency and how to integrate it naturally
 
-Il Ferro è un nutriente fondamentale per il benessere dell’organismo e una sua carenza può portare a una condizione di 
-anemia sideropenica
-1
-, molto frequente nelle donne1 e tra gli sportivi. La carenza di Ferro è comune soprattutto nelle donne in età fertile, in genere a causa di un flusso mestruale particolarmente abbondante.
+There are several factors that can cause an **Iron deficiency**. Among the **most common causes** we have:
 
+* heavy menstrual flow
+* malabsorption
+* peptic ulcer
+* hemorrhoids
+* chronic diarrhea
+* use of particular categories of **drugs** such as antacids
 
-È possibile assumere una quantità adeguata di Ferro con l’alimentazione
-, a patto di conoscere quali sono le fonti alimentari più ricche di questo prezioso minerale. E a tal proposito devi sapere che esistono due tipi di Ferro:
+It is possible to evaluate Iron supplementation:
 
+* When sideremia and ferritin values are lower than those considered normal
+* in cases of greater need by the organism
 
+You can talk about it with your attending physician and agree with him on the treatment to follow.
 
+A 100% natural supplement that provides Iron is **Ferro + B12 Salugea**. In its formulation, in addition to Iron, there is also **Vitamin B12**, which participates in Iron metabolism, and **Vitamin C** which optimizes its absorption.
 
-Ferro eme
-: presente negli alimenti di origine animale
+Ferro + B12 Salugea is different from other supplements on the market because its formulation **provides Iron pyrophosphate in liposomal form**. The liposomal form makes Iron much gentler on the gastric mucosa and avoids the annoying aftertaste characteristic of most supplements of this precious mineral.
 
+Completing the formula of Ferro + B12 is **Copper**, a trace element involved in many enzymatic reactions of the organism and in the transport of Iron in the bloodstream.
 
-Ferro non eme
-: presente negli alimenti di origine vegetale
-
-
-
-
-La differenza tra questi due tipi di Ferro sta nella loro assimilabilità. Rispetto al Ferro non eme, quello eme è più facilmente assimilabile dall’organismo. Non tutti sanno che è possibile favorire l’assorbimento di Ferro grazie alla 
-vitamina C
-2
-.
-
-
-Un piccolo trucco per assimilare il Ferro presente negli alimenti è quello di 
-aggiungere qualche goccia di succo di limone
-. Questo sia che si tratti di alimenti di origine vegetale come le verdure a foglia verde, sia che si tratti di alimenti di origine animale come la carne.
-
-
-Perché il Ferro è importante
-
-
-Il Ferro è un minerale importante perché partecipa alla formazione dei globuli rossi e a quella dell’
-emoglobina
-, una proteina coinvolta nel trasporto di Ossigeno all’organismo.
-
-
-Sintomi come stanchezza, vertigini, confusione mentale e affaticamento, potrebbero rappresentare dei campanelli di allarme a cui prestare attenzione. Se ti senti così, parlane con il medico e tra le prossime analisi del sangue ricorda di controllare anche i livelli di:
-
-
-
-
-sideremia
-: un esame che ci indica la quantità di Ferro presente nel sangue
-
-
-ferritina
-: un esame che ci indica le riserve di Ferro di cui può disporre l’organismo
-
-
-emocromo
-: che ci fornisce un quadro dettagliato del valore dell’emoglobina e dei globuli rossi
-
-
-
-
-Ora che hai scoperto la differenza tra Ferro eme e Ferro non eme possiamo passare agli alimenti ricchi di di questo elemento e inizieremo da quelli di origine animale.
-
-
-[widgets_on_pages id="Banner_Generale"][widgets_on_pages id="Banner_Vitamine_naturali"]
-
-
-Alimenti ricchi di Ferro eme
-
-
-Hai già preso carta e penna? Se non le hai ancora prese, prendile subito perché c’è da segnare qualche appunto. La lista degli 
-alimenti ricchi di Ferro eme
- comprende:
-
-
-
-
-carne di vitello e di manzo
-
-
-pollo
-
-
-uova
-
-
-carne di maiale
-
-
-pesce azzurro
-
-
-
-
-Alimenti ricchi di Ferro non eme
-
-
-Stai seguendo una dieta vegetariana e vuoi conoscere quali sono gli alimenti vegetali più ricchi di Ferro? È presto detto! Ecco una lista di 
-alimenti che contengono Ferro non eme
-:
-
-
-
-
-lenticchie
-
-
-fagioli
-
-
-fagioli mung
-
-
-spinaci
-
-
-tofu
-
-
-tempeh
-
-
-verdura a foglia verde scuro
-
-
-broccoli
-
-
-semi e frutta secca
-
-
-fagiolini
-
-
-piselli
-
-
-
-
-
-
-Se segui un’alimentazione vegana, o vegetariana, 
-puoi ottimizzare l’assorbimento intestinale di Ferro consumando delle verdure contenti vitamina C durante i pasti
- principali
-2
-.
-
-
-Il fabbisogno di Ferro consigliato
-
-
-Il fabbisogno di Ferro varia in base al sesso, all’età e alle condizioni della persona.
- Ad esempio, in gravidanza e allattamento il suo fabbisogno aumenta notevolmente, per soddisfare le esigenze della mamma e del nascituro.
-
-
-Secondo quanto indicato nei LARN
-3
- il fabbisogno giornaliero di Ferro consigliato è di
-
-
-
-
-7 mg per gli uomini di età compresa tra i 18 e i 69 anni
-
-
-10 mg per le donne di età compresa tra i 18 e i 59 anni
-
-
-22 mg per le donne in gravidanza
-
-
-8 mg durante l’allattamento
-
-
-
-
-Un regime alimentare vario ed equilibrato è il mezzo migliore per assicurare all’organismo un’adeguata quantità di questo minerale. In caso di valori di Ferro inferiori a quelli considerati nella norma, è possibile associare all’alimentazione anche un’integrazione naturale specifica.
-
-
-Cause di una carenza di Ferro e come integrarlo naturalmente
-
-
-Esistono diversi fattori
-4
- che possono provocare una 
-carenza di Ferro
-. Tra le
- cause più comuni
- abbiamo:
-
-
-
-
-flusso mestruale abbondante
-
-
-malassorbimento
-
-
-ulcera peptica
-
-
-emorroidi
-
-
-diarrea cronica
-
-
-utilizzo di particolari categorie di 
-farmaci
- come gli antiacidi
-
-
-
-
-È possibile valutare un’integrazione di Ferro:
-
-
-
-
-Quando i valori della sideremia e quelli della ferritina sono inferiori a quelli considerati nella norma
-
-
-nei casi di maggiore fabbisogno da parte dell’organismo
-
-
-
-
-Puoi parlarne con il tuo medico curante e concordare con lui il trattamento da seguire.
-
-
-Un integratore 100% naturale che apporta Ferro è Ferro + B12 Salugea. Nella sua formulazione, oltre al Ferro, sono presenti anche la 
-vitamina B12
-, che partecipa al metabolismo del Ferro e la 
-Vitamina C
- che ne ottimizza l’assorbimento.
-
-
-Ferro + B12 Salugea è diverso da altri integratori presenti sul mercato perché la sua formulazione 
-apporta Ferro pirofosfato in forma liposomiale
-. La forma liposomiale rende il Ferro molto più delicato per la mucosa gastrica ed evita il fastidioso ritorno di gusto, caratteristico della maggior parte degli integratori di questo prezioso minerale.
-
-
-A completare la formula di Ferro + B12 è il 
-Rame
-, un oligoelemento coinvolto in molte reazioni enzimatiche dell’organismo e nel trasporto di Ferro nel flusso sanguigno.
-
-
-
-
-Spero che l’articolo sia stata una lettura utile oltre che piacevole. Se hai dubbi, curiosità, o ti piacerebbe un consulto personalizzato, scrivici utilizzando i commenti. Ci vediamo al prossimo articolo!
+I hope the article was a useful as well as pleasant read. If you have doubts, curiosities, or would like a personalized consultation, write to us using the comments. See you at the next article!
