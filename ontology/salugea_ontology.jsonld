@@ -1,0 +1,93 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "salugea": "https://salugea.com/ontology#",
+    "ActiveCompound": "salugea:ActiveCompound",
+    "HealthArea": "salugea:HealthArea",
+    "Whitepaper": "salugea:Whitepaper",
+    "Guide": "salugea:Guide",
+    "hasActiveCompound": {
+      "@id": "salugea:hasActiveCompound",
+      "@type": "@id"
+    },
+    "targetsHealthArea": {
+      "@id": "salugea:targetsHealthArea",
+      "@type": "@id"
+    },
+    "documentedIn": {
+      "@id": "salugea:documentedIn",
+      "@type": "@id"
+    },
+    "hasEvidenceLevel": "salugea:hasEvidenceLevel",
+    "hasSKU": "salugea:hasSKU",
+    "hasEAN": "salugea:hasEAN"
+  },
+  "@graph": [
+    {
+      "@id": "salugea:Product",
+      "@type": "Product",
+      "name": "Salugea Nutraceutical Product",
+      "description": "Generic class for Salugea nutraceutical products.",
+      "hasActiveCompound": {
+        "@type": "@id",
+        "@id": "salugea:ActiveCompound"
+      },
+      "targetsHealthArea": {
+        "@type": "@id",
+        "@id": "salugea:HealthArea"
+      }
+    },
+    {
+      "@id": "salugea:ActiveCompound",
+      "@type": "DefinedTerm",
+      "name": "Active Compound",
+      "description": "Biologically active ingredient used in Salugea nutraceutical products.",
+      "inDefinedTermSet": "salugea:ActiveCompoundSet"
+    },
+    {
+      "@id": "salugea:HealthArea",
+      "@type": "CategoryCode",
+      "name": "Health Area",
+      "description": "Physiological or functional area targeted by a nutraceutical product (e.g. joints, sleep, immunity)."
+    },
+    {
+      "@id": "salugea:Article",
+      "@type": "Article",
+      "name": "Salugea Scientific Article or Blog Post",
+      "description": "Text content published by Salugea, used as source for guides and whitepapers.",
+      "about": [
+        {
+          "@id": "salugea:ActiveCompound"
+        },
+        {
+          "@id": "salugea:HealthArea"
+        }
+      ]
+    },
+    {
+      "@id": "salugea:Whitepaper",
+      "@type": "CreativeWork",
+      "name": "Salugea Whitepaper",
+      "description": "Technical and scientific document derived from Salugea content.",
+      "about": [
+        {
+          "@id": "salugea:ActiveCompound"
+        },
+        {
+          "@id": "salugea:HealthArea"
+        }
+      ]
+    },
+    {
+      "@id": "salugea:Guide",
+      "@type": "CreativeWork",
+      "name": "Salugea Guide",
+      "description": "Educational guide derived from Salugea content, aimed at final users.",
+      "about": [
+        {
+          "@id": "salugea:HealthArea"
+        }
+      ]
+    }
+  ]
+}
