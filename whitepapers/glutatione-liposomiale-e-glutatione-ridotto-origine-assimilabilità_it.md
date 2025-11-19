@@ -1,7 +1,7 @@
 # Glutatione Liposomiale e Glutatione Ridotto: Origine e Assimilabilità  
 _Fonte: Salugea · Whitepaper tecnico-scientifico_
 
-**Data:**  7 Ottobre 2022 
+**Data:**  7 Ottobre 2022  
 **Autore:** Dott. Stefano Censani (Biologo & Naturopata)  
 
 ---
