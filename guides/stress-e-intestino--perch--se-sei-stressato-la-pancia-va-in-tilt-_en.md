@@ -1,300 +1,117 @@
-# Stress e intestino: perché se sei stressato la pancia va in tilt? (English Version)
+# Stress and the intestine: why does your tummy go haywire when you're stressed? (English Version)
 
 **Original Date:** 2025-10-23
 
-_This is the English version placeholder. Content will be translated._
+Has it ever happened to you to have an important meeting, maybe precisely one where you had to speak, and suddenly... **boom**! You had to run to the bathroom faster than a marathon runner?
 
+Or, during a stressful period, to have your intestine blocked, like traffic during rush hour? It is not a coincidence, **stress and intestine are connected**.
 
+Our intestine is extremely sensitive and, when stress knocks on the door, it reacts—and not always in the best way.
 
-Ti è mai capitato di avere una riunione importante, magari proprio una in cui dovevi parlare, e all’improvviso… 
-boom
-! Sei dovuto correre in bagno più veloce di un maratoneta? 
+But why does it happen and, above all, how can we remedy it? Let's find out together!
 
+Here is the detailed index of the article:
 
-Oppure, durante un periodo stressante, di avere l’intestino bloccato, come il traffico nell’ora di punta? Non è un caso, 
-stress e intestino sono collegati
-1
-.
- 
+* How the intestine reacts to stress.
+* Stress and Intestine: probiotics and natural remedies.
+* How to relax the intestine in case of stress.
+* What "stress poop" is like and what to do.
+* TCM (Traditional Chinese Medicine) - Which emotion is linked to the intestine.
 
+## How the intestine reacts to stress
 
-Il nostro intestino è estremamente sensibile e, quando lo stress bussa alla porta, lui reagisce—e non sempre nel migliore dei modi.
+Do you want to know how the intestine reacts to stress? **Badly!** ☹
 
+After all, which of us faces a stressful event with serenity?
 
-Ma perché succede e, soprattutto, come possiamo rimediare? Scopriamolo insieme!
+In a situation of calm and tranquility, the intestine works efficiently: **it digests food, absorbs essential nutrients, and discards what is not needed, eliminating it with feces.**
 
+But if a stress factor disturbs its work, the intestine can react in different ways:
 
-Ecco l’indice dettagliato dell’articolo:
+* **runs wildly** → you are forced to run to the bathroom
+* **blocks like a stubborn mule** → moments of constipation
+* **throws some tantrums** → bloating, borborygmi (rumbling), and other discomforts
 
+But it doesn't end here! When the intestine suffers from stress, **our mood also suffers**. Why? Simple! It is precisely in the intestine that most of the **serotonin, the happiness hormone**, is produced.
 
+All this happens because **stress and intestine are connected through the gut-brain axis**.
 
+When you experience a situation of anxiety or stress, the brain sends alarm signals to the intestine, which responds by entering "panic" mode too.
 
-Come reagisce l’intestino allo stress.
 
+## Stress and Intestine: probiotics and natural remedies
 
-Stress e intestino: probiotici e rimedi naturali.
+If your intestine has been suffering from stress for a while already, you can evaluate intervening with **probiotics**, **prebiotics**, and **specific plant extracts**.
 
+Let's start with probiotics. These are **live and vital microorganisms** which, if taken in the right quantities, **favor the balance of intestinal flora and support its well-being**.
 
-Come rilassare l’intestino in caso di stress.
+But their action is much broader. You must know, in fact, that some probiotics can **positively influence gut-brain communication**, modulating the response to stress and contributing to managing stressful conditions, mood alterations, and even sleep quality.
 
+But there is a problem. **The biggest challenge is getting them unharmed into the intestine!** During the journey, in fact, they must cross the acidic environment of the stomach, which can destroy them before they can perform their function.
 
-Come sono le feci da stress e cosa fare.
+For this reason, it is fundamental to choose **probiotics enclosed in acid-resistant capsules**, which protect them and ensure their functional efficiency.
 
+And it doesn't end here. Good bacteria living in the intestine, to survive and multiply, **need nourishment**. Here **prebiotic fibers** come into play, such as those of inulin for example, which provide the food necessary for their development and contribute to the well-being of the intestinal microbiota.
 
-MTC  - Quale emozione è legata all’intestino.
+As for **plant extracts**, some can be particularly useful for **managing stress** and calming a hyperactive intestine that suffers from it. Among these, **Griffonia and Mallow (Malva)** stand out.
 
+Let's get to know these plants and their action better:
 
+* **Griffonia**: can favor sleep quality, improve mood tone, and help maintain calm and serenity in moments of stress.
+* **Mallow**: performs a soothing action and contributes to the **regularity of intestinal transit**, as well as favoring the normal consistency and volume of feces... a topic we will return to shortly! ☺
 
+*Dulcis in fundo* (Last but not least), but not least in importance. Remember to always listen to your body and notice the signals your tummy sends you. If you notice that discomforts are persistent and interfere with the quality of life, talk to the doctor, you will see that he will know how to listen to you and advise you.
 
-Abbiamo selezionato per te gli argomenti più utili per darti degli spunti su come sostenere il benessere intestinale! 
+## How to relax the intestine when it is "stressed"
 
+If you want to calm your intestine, here are some useful suggestions.
 
-Inoltre, vuoi scoprire qualcosa di davvero utile e inaspettato sull’intestino e il microbiota? Scarica la nostra guida gratuita! È pratica, ricca di consigli e a portata di clic.
+The first thing to do? **Breathe and relax.**
 
+I know, easier said than done! But techniques like **diaphragmatic breathing, yoga, and meditation** can make a difference. Even just **closing your eyes and taking a few deep breaths** can contribute. You will see that your intestine will thank you!
 
-Scarica la Guida: "eBook gratuito: Il potere dei Probiotici" (pdf)
+**Move!** Physical activity is a great ally against stress and intestinal disorders. **A walk after meals** supports digestion and can have a positive influence even on slowed intestinal transit. While doing sports regularly is the enemy of stress and can have a positive action on intestinal regularity.
 
+## What is "stress poop" like?
 
-Ora vediamo nel dettaglio 
-come lo stress influenza il nostro intestino. Buona lettura! 
+It's not the best of conversations, I know, but knowing the "secret meaning of feces" can tell you something more about the state of intestinal well-being.
 
+Here is how feces can be when a stressful situation puts a strain on the intestine:
 
-Come reagisce l’intestino allo stress
+* **Soft and poorly formed feces** → When you are stressed, your intestine alters the fluid reabsorption process, making it less efficient. Result? Liquid feces and sudden runs to the bathroom!
+* **Hard feces difficult to expel** → In some cases, when stress situations manifest, the intestine closes up like a hedgehog and slows down intestinal transit. The result? Feces can be hard and associated with difficulty going to the bathroom.
+* **Irregular feces** → One day you are constipated, the next day you have diarrhea? Your intestine is confused! This can be the signal that stress is playing nasty tricks.
 
+If the problem persists, better talk to a doctor!
 
-Vuoi sapere come reagisce l’intestino allo stress? 
-Male!
- ☹
+## TCM - Which emotion is linked to the intestine?
 
+The intestine is much more than a simple digestive organ. It is closely connected to our emotions, particularly to **happiness and sadness**.
 
-In fondo, chi di noi affronta con serenità un evento stressante?
+If you want to deepen the link between intestine and emotions you can read **this article**.
 
+Let me explain better immediately.
 
-In una situazione di calma e tranquillità, l’intestino lavora in modo efficiente: 
-digerisce gli alimenti, assorbe i nutrienti essenziali e scarta ciò che non serve, eliminandolo con le feci.
+### Happiness and intestine: the serotonin laboratory
 
+The intestine is responsible for the production of about **90% of serotonin**, the neurotransmitter of good mood.
 
-Ma se un fattore stressante disturba il suo lavoro, l’intestino può reagire in modi diversi
-2
-:
+This means that our emotional well-being is strongly influenced by intestinal well-being. An intestine in balance favors a more serene mind and a positive state of mind, while an alteration of intestinal balance can be reflected in mood and energy levels.
 
+### Sadness and intestine: the link with Traditional Chinese Medicine
 
+In Traditional Chinese Medicine, the large intestine (*Da Chang*) is associated with the **Metal** element and represents detachment and the ability to let go, particularly the past, to make room for the present.
 
+Intestinal imbalance can manifest itself not only with physical symptoms but also with **sadness, melancholy, and emotional closure**. For Traditional Chinese Medicine, those who struggle to process a change or let go of situations from the past may also suffer at the intestinal level, with episodes of **constipation** or, conversely, **diarrhea**, as if the intestine were trying to expel what the mind retains.
 
-corre all’impazzata
- → sei costretto a scappare in bagno 
+Taking care of your intestine is not only a matter of physical well-being but also of emotional well-being!
 
+And you, would you ever have imagined that the intestine had such an important role in processing emotions and letting them go at the right time? Write it to us in the comments, we look forward to reading you!
 
-si blocca come un mulo testardo
- → momenti di stitichezza 
+---
 
+Salugea produce e commercializza integratori alimentari: leggere le avvertenze in etichetta. (Salugea produces and markets food supplements: read the warnings on the label.)
 
-fa qualche capriccio
- → gonfiore, borborigmi e altri fastidi 
+Gli integratori non vanno intesi come sostituti di una dieta varia, equilibrata e di uno stile di vita sano. (Supplements are not intended as substitutes for a varied, balanced diet and a healthy lifestyle.)
 
-
-
-
-Ma non finisce qui! Quando l’intestino soffre lo stress, 
-anche il nostro umore ne risente
-3
-. Perché? Semplice! È proprio nell’intestino che viene prodotta la maggior parte della 
-serotonina, l’ormone della felicità
-.
-
-
-Tutto questo accade perché 
-stress e intestino sono collegati attraverso l’asse intestino-cervello
-. 
-
-
-Quando vivi una situazione di ansia o stress, il cervello invia segnali di allarme all’intestino, che risponde entrando in “panico” anche lui. 
-
-
-[widgets_on_pages id="Banner_Generale"] [widgets_on_pages id="Banner_Ansia_e_stress"]
-
-
-Stress e Intestino: probiotici e rimedi naturali 
-
-
-Se il tuo intestino risente dello stress già da un po’, puoi valutare di intervenire con 
-probiotici
-4
-, prebiotici
-4 
-ed estratti vegetali specifici
-.
-
-
-Partiamo dai probiotici. Si tratta di 
-microrganismi vivi
- e vitali che, se assunti nelle giuste quantità, 
-favoriscono l’equilibrio della flora intestinale e sostengono il suo benessere
-.
-
-
-Ma la loro azione è molto più ampia. Devi sapere, infatti, che alcuni probiotici possono 
-influenzare positivamente la comunicazione intestino-cervello
-4-5
-, modulando la risposta allo stress e contribuendo a gestire condizioni stressanti, alterazioni del tono dell’umore e persino la qualità del sonno.
-
-
-Ma c’è un problema. 
-La sfida più grande è farli arrivare indenni nell’intestino!
- Durante il viaggio, infatti, devono attraversare l’ambiente acido dello stomaco, che può distruggerli prima che possano svolgere la loro funzione. 
-
-
-Per questo è fondamentale scegliere 
-probiotici racchiusi in capsule acido-resistenti
-, che li proteggono e ne garantiscono l’efficienza funzionale.
-
-
-E non finisce qui. I batteri buoni che vivono nell’intestino, per sopravvivere e moltiplicarsi, 
-hanno bisogno di nutrimento
-. Qui entrano in gioco le 
-fibre prebiotiche
-, come quelle di inulina ad esempio, che forniscono il cibo necessario per il loro sviluppo e contribuiscono al benessere del microbiota intestinale. 
-
-
-Per quanto riguarda gli 
-estratti vegetali
-, alcuni possono essere particolarmente utili per 
-gestire lo stress
- e calmare un intestino iperattivo che ne risente. Tra questi, spiccano 
-Griffonia e Malva
-.
-
-
-Conosciamo meglio queste piante e la loro azione:
-
-
-
-
-Griffonia
-: può favorire la qualità del sonno, migliorare il tono dell’umore e aiutare a mantenere calma e serenità nei momenti di stress.
-
-
-Malva
-: svolge un’azione lenitiva e contribuisce alla 
-regolarità del transito intestinale
-, oltre a favorire la normale consistenza e volume delle feci… argomento su cui torneremo tra poco! ☺
-
-
-
-
-Dulcis in fundo
-, ma non per importanza. Ricorda di ascoltare sempre il tuo corpo e fare caso ai segnali che ti invia la pancia. Se noti che i fastidi sono persistenti e interferiscono con la qualità della vita parlane con il medico, vedrai che saprà ascoltarti e consigliarti. 
-
-
-
-
-Come rilassare l’intestino quando è “stressato”
-
-
-Se vuoi calmare il tuo intestino, ecco alcuni suggerimenti utili.
-
-
-La prima cosa da fare? 
-Respira e rilassati.
-
-Lo so, più facile a dirsi che a farsi! Ma tecniche come la 
-respirazione diaframmatica, lo yoga e la meditazione
- possono fare la differenza. Anche solo 
-chiudere gli occhi e fare qualche respiro profondo
- può contribuire. Vedrai che il tuo intestino ti ringrazierà!
-
-
-Muoviti!
- L’attività fisica è un grande alleato contro lo stress e i disturbi intestinali. 
-Una passeggiata dopo i pasti
- sostiene la digestione e può avere un’influenza positiva anche su un transito intestinale rallentato. Mentre il fare sport regolarmente è nemico dello stress e può avere un’azione positiva sulla regolarità intestinale.
-
-
-Come sono le feci da stress?
-
-
-Non è il massimo della conversazione, lo so, ma conoscere il "significato segreto delle feci" può dirti qualcosa in più sullo stato di benessere dell’intestino
-2
-. 
-
-
-Ecco come possono essere le feci quando una situazione stressante mette a dura prova l’intestino: 
-
-
-Feci molli e poco formate
- → Quando sei stressato, il tuo intestino altera il processo di riassorbimento dei liquidi, rendendolo meno efficiente. Risultato? Feci liquide e corse improvvise in bagno!
-
-
-Feci dure e difficili da espellere 
-→ In alcuni casi, quando si manifestano situazioni di stress, l’intestino si chiude a riccio e rallenta il transito intestinale. Il risultato? Le feci possono essere dure e associate a difficoltà ad andare in bagno.
-
-
-Feci irregolari
- → Un giorno sei stitico, il giorno dopo hai la diarrea? Il tuo intestino è confuso! Questo può essere il segnale che lo stress sta giocando brutti scherzi.
-
-
-Se il problema persiste, meglio parlarne con un medico!
-
-
-MTC - Quale emozione è collegata all’intestino?
-
-
-L’intestino è molto più di un semplice organo digestivo. È strettamente connesso alle nostre emozioni, in particolare alla 
-felicità e alla tristezza
-.
-
-
-Se vuoi approfondire il legame tra intestino ed emozioni puoi leggere 
-questo articolo
-. 
-
-
-Mi spiego subito meglio. 
-
-
-Felicità e intestino: il laboratorio della serotonina
-
-
-L’intestino è responsabile della produzione di circa 
-il 90% della serotonina
-6
-, il neurotrasmettitore del buonumore. 
-
-
-Questo significa che il nostro benessere emotivo è fortemente influenzato dal benessere intestinale. Un intestino in equilibrio favorisce una mente più serena e uno stato d’animo positivo, mentre un’alterazione dell’equilibrio intestinale può riflettersi su umore e livelli di energia.
-
-
-Tristezza e intestino: il legame con la Medicina Tradizionale Cinese
-
-
-
-Nella Medicina Tradizionale Cinese, l’intestino crasso (Da Chang) è associato all’elemento 
-Metallo
- e rappresenta il distacco e la capacità di lasciare andare, in particolare il passato, per far spazio al presente. 
-
-
-Il disequilibrio intestinale può manifestarsi non solo con sintomi fisici, ma anche con 
-tristezza, malinconia e chiusura emotiva
-. Per la Medicina Tradizionale Cinese, chi fatica a elaborare un cambiamento o a lasciar andare situazioni del passato può risentirne anche a livello intestinale, con episodi di 
-stitichezza
- o, al contrario, di 
-diarrea
-, come se l’intestino cercasse di espellere ciò che la mente trattiene.
-
-
-Prendersi cura del proprio intestino non è solo una questione di benessere fisico, ma anche di benessere emotivo!
-
-
-E tu, avresti mai immaginato che l’intestino avesse un ruolo così importante nell’elaborare le emozioni e lasciarle andare al momento giusto? Scrivicelo nei commenti, non vediamo l’ora di leggerti!
-
-
- 
-
-
-Salugea produce e commercializza integratori alimentari: leggere le avvertenze in etichetta.
-
-
-Gli integratori non vanno intesi come sostituti di una dieta varia, equilibrata e di uno stile di vita sano.
-
-
-I nostri testi hanno scopo divulgativo, non vanno intesi come indicazione di diagnosi e cura di stati patologici e non sostituiscono il parere del Medico.
+I nostri testi hanno scopo divulgativo, non vanno intesi come indicazione di diagnosi e cura di stati patologici e non sostituiscono il parere del Medico. (Our texts are for informational purposes, are not intended as an indication of diagnosis and treatment of pathological states, and do not replace the Doctor's opinion.)
