@@ -1,252 +1,96 @@
-# Come depurare la pelle: rimedi naturali, dieta e trattamenti (English Version)
+# How to purify the skin: natural remedies, diet and treatments (English Version)
 
 **Original Date:** 2025-04-23
 
-_This is the English version placeholder. Content will be translated._
+Are you looking for **how to purify the skin** in a natural and effective way? Excellent news: you are in the right place!
 
+In this article you will discover:
 
+* The ad hoc natural remedies for a skin detox
+* Recommended foods for a luminous face
+* The most used treatments to free the skin from impurities
+* Purifying herbal teas that help purify the skin from the inside
+* How much water to drink to purify the skin
+* Cleopatra's secret for beautiful and luminous skin
 
-Stai cercando 
-come depurare la pelle
- in modo naturale ed efficace? Ottima notizia: sei nel posto giusto!
+## Purify the skin with natural remedies: here is which ones to choose
 
+Nature offers many allies to **purify the skin**, keep it luminous, and counteract impurities. Among the most suitable natural remedies we find:
 
-In questo articolo scoprirai:
+### Fumaria (Fumitory), with purifying properties
 
+Fumaria is a plant known for its purifying properties, ideal for eliminating toxins that accumulate and can cause impurities. Furthermore, it exercises a positive action also on the well-being and functionality of the skin. It can be taken in the form of herbal tea or as a supplement.
 
+We advise you to choose it in the form of **titrated dry extract** because it guarantees the highest concentration of natural active ingredient. You find it in this form in the food supplement **Epasal**, formulated for liver depuration.
 
 
-I rimedi naturali ad hoc per un detox della pelle
+### Aloe Vera juice: choose it pure and organic
 
+Aloe Vera is a true elixir for the skin. Thanks to its content of antioxidants and vitamins and its purifying action, Aloe can contribute to eliminating toxins, with a possible positive effect also on the skin. Choose **pure Aloe vera from organic farming, rigorously preserved in dark glass** of pharmaceutical grade (**not in plastic**).
 
-Gli alimenti consigliati per un viso luminoso
+### Probiotics and skin
 
+Often **skin well-being starts from the intestine**. **Probiotics favor the balance of intestinal bacterial flora**, supporting not only digestion and nutrient absorption but also the body's ability to eliminate toxins **with a positive fallout on the skin**. Not everyone knows, in fact, that the intestine is part of the emunctory organs and one of its tasks is to eliminate waste and toxins.
 
-I trattamenti più utilizzati per liberare la pelle dalle impurità
+Choosing these natural remedies and integrating them into your daily routine can make a big difference. Combine them with a balanced diet and a healthy lifestyle for even more visible and long-lasting results.
 
+## Foods to purify the skin: what to bring to the table
 
-Le tisane purificanti che contribuiscono a depurare la pelle dall’interno
+**Luminous skin starts from the table!**
 
+There are foods that, thanks to their nutrients, can contribute to purifying the skin from the inside and keeping it free from impurities.
 
-Quanta acqua bere per depurare la pelle
+Here is what should never be missing from your diet:
 
+* **Whole grains**: rich in fiber, they favor – together with probiotics – intestinal well-being;
+* **Legumes**: excellent source of vegetable proteins and minerals, such as Iron, Magnesium, and Zinc, fundamental for skin well-being;
+* **Fruit and vegetables**: thanks to their high content of **antioxidants**, they fight free radicals that can cause oxidative stress and accelerate skin aging. Among the most important antioxidants we find **Glutathione**, a molecule that supports the body's detoxification processes;
+* **Fish rich in Omega-3**: salmon, mackerel, sardines, and other fatty fish are precious allies for the skin because they are sources of Omega 3. These essential fatty acids can contribute to maintaining skin hydration and the skin barrier function.
 
-Il segreto di Cleopatra per una pelle bella e luminosa
+Integrating these foods into your daily diet can act positively on the appearance of the skin, keeping it luminous, toned, and hydrated.
 
+## Treatments to clean the skin deeply
 
+To have clean skin free from imperfections it is important to also evaluate targeted external treatments that act optimally. Among the most used we find:
 
+* **chemical peels**: treatments that use specific active ingredients to exfoliate the skin and remove dead cells. **Glycolic acid** can contribute to illuminating the complexion and stimulating cell turnover, while **salicylic acid** can contribute to counteracting impurities;
+* **mechanical peels**: involve the use of scrubs containing natural micro-granules, such as pulverized **apricot kernel**, for delicate but effective exfoliation. This type of peeling contributes to eliminating dead cells and leaves the skin smooth and soft;
+* **clay masks**: perfect for purifying the skin and counteracting excess sebum.
 
-Scarica l'eBook gratuito: Guida alla Depurazione, Salute e Bellezza (pdf)
+It is fundamental to avoid **DIY** and rely on qualified professionals and products formulated specifically for your skin type.
 
+An unsuitable treatment could irritate the skin or worsen imperfections. For optimal results, combine these treatments with a daily skincare routine studied for your needs.
 
-Ora iniziamo il nostro viaggio verso una pelle luminosa, partendo dall’interno. Buona lettura!
+## Herbal teas to purify the skin: dandelion and burdock
 
+**Herbal teas can be a simple and natural way to favor skin depuration**, thanks to their ability to support toxin elimination processes.
 
-Depurare la pelle con i rimedi naturali: ecco quali scegliere
+Here are two perfect allies for the well-being of your skin:
 
+* **Dandelion herbal tea**: Dandelion (Tarassaco), also known as lion's tooth, is a natural purifier worthy of respect. It supports liver function, digestive function, and intestinal transit, favoring the elimination of toxins that often can be reflected on the skin in the form of impurities and imperfections;
+* **Burdock herbal tea**: Burdock (Bardana) is a plant with purifying and draining properties, ideal for those who want a detox break;
+* **Nettle herbal tea**: Nettle (Ortica) is known for its purifying and draining properties. It supports the elimination of toxins and excess fluids. Furthermore, the root has a positive action on the well-being of nails and hair.
 
-La natura offre tanti alleati per 
-depurare la pelle
-, mantenerla luminosa e contrastare le impurità. Tra i rimedi naturali più indicati troviamo:
+It should be remembered that herbal teas, while beneficial, have a milder effect compared to **titrated dry extracts**, which are concentrated and provide greater quantities of active ingredients. For a more marked effect, it is also advisable to integrate dry extracts with a balanced diet and targeted skincare.
 
+## How much water to drink to purify the skin
 
-Fumaria, dalle proprietà depurative
+Water also plays a fundamental role for the general well-being of the organism and, in particular, for that of the skin.
 
+Drinking a sufficient amount of water every day can contribute to maintaining an adequate level of hydration and favoring the elimination of toxins and waste through diuresis. And if there are fewer toxins around, the appearance of the skin also benefits.
 
-La Fumaria è una pianta nota per le sue proprietà depurative, ideali per eliminare le tossine che si accumulano e che possono causare impurità.
- Inoltre, esercita un’azione positiva anche sul benessere e la funzionalità della pelle. Può essere assunta sotto forma di tisana o come integratore.
+We advise you to choose natural **oligomineral water**.
 
+The ideal amount to drink depends on various factors, such as age, body weight, and level of physical activity, but generally, it is recommended to take **1.5-2 liters of water per day** or better, **30 ml per kilo of body weight**. You can increase intake during hot periods or if you practice intense physical activity.
 
-Noi ti consigliamo di sceglierla nella forma di estratto secco titolato perché garantisce la più alta concentrazione di principio attivo naturale. La trovi in questa forma nell'integratore alimentare Epasal, formulato per la depurazione del fegato.
+Remember that correct hydration, combined with a balanced diet and specific treatments, is one of the pillars for luminous skin free from imperfections.
 
+## Cleopatra's secret for beautiful skin: the milk bath
 
-[widgets_on_pages id="Banner_Generale"][widgets_on_pages id="Banner_Depurazione"]
+Cleopatra, the legendary Queen of Egypt, is famous not only for her charm but also for her beauty rituals, including the famous **bath in donkey milk**, rich in vitamins and nutrients. This ancient treatment was her secret for soft, luminous, and young skin.
 
+If you want to experiment with the "Cleopatra method" at home, you can add a glass of whole milk or a little powdered milk to your bathtub water, but we don't guarantee the result! ?
 
-Il succo di Aloe Vera: sceglilo puro e biologico
-
-
-L'Aloe Vera è
- un vero elisir per la pelle. Grazie al suo contenuto di antiossidanti e vitamine e alla sua azione depurativa, l’Aloe può contribuire a eliminare le tossine, con un possibile effetto positivo anche sulla pelle
-1-2
-. Scegli 
-Aloe vera pura e da agricoltura biologica, rigorosamente conservato in vetro scuro
- di grado farmaceutico (
-non in plastica
-).
-
-
-Probiotici e pelle
-
-
-Spesso 
-il benessere della pelle parte dall’intestino
-3
-. 
-I probiotici favoriscono l’equilibrio della flora batterica intestinale
-, sostenendo non solo la digestione e l’assorbimento dei nutrienti ma anche la capacità dell’organismo di eliminare le tossine 
-con una ricaduta positiva sulla pelle
-. Non tutti sanno, infatti, che l’intestino fa parte degli organi emuntori e uno dei suoi compiti è quello di eliminare scorie e tossine.
-
-
-
-
-Scegliere questi rimedi naturali e integrarli nella tua routine quotidiana può fare una grande differenza. Abbinali a una dieta equilibrata e uno stile di vita sano per risultati ancora più visibili e duraturi nel tempo.
-
-
-Gli alimenti per depurare la pelle: cosa portare in tavola
-
-
-Una pelle luminosa parte dalla tavola
-!
-
-
-Ci sono alimenti che, grazie ai loro nutrienti, possono contribuire a depurare la pelle dall’interno e a mantenerla libera da impurità.
-
-
-Ecco cosa non dovrebbe mai mancare nella tua dieta:
-
-
-Cereali integrali
-: ricchi di fibre, favoriscono – insieme ai probiotici – il benessere dell’intestino;
-
-
-Legumi
-: ottima fonte di proteine vegetali e minerali, come Ferro, Magnesio e Zinco
-4
-, fondamentale per il benessere cutaneo;
-
-
-Frutta e verdura
-: grazie al loro elevato contenuto di 
-antiossidanti
-, combattono i radicali liberi che possono causare stress ossidativo e accelerare l’invecchiamento cutaneo. Tra gli antiossidanti più importanti troviamo il 
-Glutatione
-5
-, una molecola che supporta i processi di detossificazione dell’organismo;
-
-
-Pesce ricco di Omega3
-: salmone, sgombro, sardine e altri pesci grassi sono preziosi alleati per la pelle, perché fonti di Omega 3. Questi acidi grassi essenziali possono contribuire a mantenere l’idratazione cutanea e la funzione barriera della pelle
-6
-.
-
-
-Integrare questi alimenti nella tua alimentazione quotidiana può agire in modo positivo sull’aspetto della pelle, mantenendola luminosa, tonica e idratata.
-
-
-Trattamenti per pulire la pelle in profondità
-
-
-Per avere una pelle pulita e libera da imperfezioni è importante valutare anche trattamenti esterni mirati che agiscano in modo ottimale. Tra i più utilizzati troviamo:
-
-
-
-
-peeling chimici
-: trattamenti che utilizzano principi attivi specifici per esfoliare la pelle e rimuovere le cellule morte. L’
-acido glicolico
- può contribuire a illuminare l’incarnato e stimolare il turnover cellulare
-7
-, mentre l’
-acido salicilico
- può contribuire a contrastare le impurità
-8
-;
-
-
-peeling meccanici
-: prevedono l’utilizzo di scrub contenenti microgranuli naturali, come il 
-nocciolo di albicocca
- polverizzato, per un’esfoliazione delicata ma efficace. Questo tipo di peeling contribuisce ad eliminare le cellule morte e lascia la pelle liscia e morbida;
-
-
-maschere di argilla
-: perfette per purificare la pelle e contrastare l’eccesso di sebo. 
-9
-
-
-
-
-È fondamentale evitare il 
-fai da te
- e affidarsi a professionisti qualificati e a prodotti formulati appositamente per il tuo tipo di pelle.
-
-
-Un trattamento non adatto potrebbe irritare la cute o peggiorare le imperfezioni. Per risultati ottimali, combina questi trattamenti a una routine quotidiana di skincare studiata per le tue esigenze.
-
-
-Le tisane per depurare la pelle: tarassaco e bardana
-
-
-Le 
-tisane possono essere un modo semplice e naturale per favorire la depurazione della pelle
-, grazie alla loro capacità di supportare i processi di eliminazione delle tossine.
-
-
-Ecco due alleate perfette per il benessere della tua pelle:
-
-
-
-
-tisana al Tarassaco
-: il Tarassaco, noto anche come dente di leone, è un depurativo naturale di tutto rispetto. Supporta la funzione del fegato, quella digestiva e il transito intestinale, favorendo l’eliminazione di tossine che, spesso, possono riflettersi sulla pelle sotto forma di impurità e imperfezioni;
-
-
-tisana alla Bardana
-: la Bardana è una pianta dalle proprietà depurative e drenanti, ideale per chi desidera una pausa detox;
-
-
-tisana di Ortica: 
-l’Ortica è nota per le sue proprietà depurative e drenanti. Sostiene l’eliminazione di tossine e liquidi in eccesso. Inoltre, la radice, ha un’azione positiva sul benessere delle unghie e dei capelli.
-
-
-
-
-Va ricordato che le tisane, pur essendo benefiche, hanno un effetto più blando rispetto agli 
-estratti secchi titolati
-, che sono concentrati e forniscono quantità maggiori di principi attivi. Per un effetto più marcato è consigliabile inoltre integrare gli estratti secchi con una dieta equilibrata e una skincare mirata.
-
-
-Quanta acqua bere per depurare la pelle
-
-
-Anche l’acqua ricopre un ruolo fondamentale per il benessere generale dell’organismo e, in particolare, per quello della pelle
-10
-.
-
-
-Bere una quantità sufficiente di acqua ogni giorno può contribuire a mantenere un adeguato livello di idratazione e a favorire l’eliminazione di tossine e scorie attraverso la diuresi. E se in giro ci sono e meno tossine, anche l’aspetto della pelle ne trova giovamento.
-
-
-Ti consigliamo di scegliere un’
-acqua oligominerale
- naturale.
-
-
-La quantità ideale da bere dipende da diversi fattori, come età, peso corporeo e livello di attività fisica, ma generalmente si consiglia di assumere 
-1,5-2 litri di acqua al giorno
- 
-o meglio, 30 ml per chilo corporeo 
-11
-. Puoi aumentarne l’assunzione durante i periodi caldi o se pratichi attività fisica intensa.
-
-
-Ricorda che una corretta idratazione, abbinata a una dieta equilibrata e a trattamenti specifici, è uno dei pilastri per una pelle luminosa e libera da imperfezioni.
-
-
-Il segreto di Cleopatra per una pelle bella: il bagno nel latte
-
-
-Cleopatra, la leggendaria regina d’Egitto, è famosa non solo per il suo fascino, ma anche per i suoi rituali di bellezza, tra cui il celebre 
-bagno nel latte di asina
-, ricco di vitamine e nutrienti. Questo antico trattamento era il suo segreto per una pelle morbida, luminosa e giovane.
-
-
-Se vuoi sperimentare il “metodo Cleopatra” a casa, puoi aggiungere un bicchiere di latte intero o un po’ di latte in polvere all’acqua della tua vasca da bagno, ma non garantiamo il risultato! ?
-
-
-I nostri testi hanno scopo divulgativo, non vanno intesi come indicazione di diagnosi e cura di stati patologici e non vogliono sostituirsi in alcun modo al parere del Medico.
-
+I nostri testi hanno scopo divulgativo, non vanno intesi come indicazione di diagnosi e cura di stati patologici e non vogliono sostituirsi in alcun modo al parere del Medico. (Our texts are for informational purposes, are not intended as an indication of diagnosis and treatment of pathological states, and do not intend to replace the Doctor's opinion in any way.)
 
 [widgets_on_pages id="Banner_Generale"][widgets_on_pages id="Banner_Depurazione"]
