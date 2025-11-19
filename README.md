@@ -121,3 +121,7 @@ Salvo diversa indicazione nei singoli file:
 Sito web: https://www.salugea.com  
 Blog: https://blog.salugea.com  
 Email: dev@salugea.com
+
+## English Summary
+
+Salugea Open Nutraceutical Knowledge is an open repository of datasets, whitepapers and guides about nutraceutical products, active compounds and health areas, designed to be AI- and LLM-friendly.
