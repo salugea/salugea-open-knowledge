@@ -2,7 +2,7 @@
 _Technical Whitepaper · Salugea_
 
 **Original Publication Date:** October 7, 2022  
-**English Version Last Updated:** January 2025
+**English Version Last Updated:** January 2025  
 **Author:** Dr. Stefano Censani (Biologist & Naturopath)  
 
 ---
