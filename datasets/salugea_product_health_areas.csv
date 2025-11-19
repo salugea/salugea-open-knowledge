@@ -1,49 +1,50 @@
-eans,sku,title,health_area
-8059591580332,87,Venasal,Integratori a base di Rusco
-8059591580356,61,DKE + Magnesio,Health & Beauty
-8059591580363,65,Biosnel Formula Potenziata,Integratori a base di Vite Rossa
-8059591580370,66,Colonsan Formula Potenziata,Integratori Naturali adatti a Vegani e Vegetariani
-8059591580387,67,Diuresan Formula Potenziata,Integratori a base di Frassino
-8059591580424,71,Memosan,Integratori a base di Schisandra
-8059591580431,72,Omega 3 Krill Oil,Integratori per l'apparato cardiocircolatorio
-8059591580448,73,Pausanorm Forte,Integratori a base di Kudzu
-8059591580455,74,Rilassa Mente,Integratori per lo Studio
-8059591580479,76,Sanuril Formula Potenziata,Integratori a base di Uva Ursina
-8059591580486,77,Serena Notte,Integratori a base di Valeriana
-8059591580493,78,Sport 1 Endurance,Integratori a base di Suma
-8059591580509,79,Sport 2 Recupero,Integratori Energizzanti Naturali
-8059591580516,81,Epasal,Remise en forme
-8059591580530,83,Sincrovir,Integratori a base di L-Ornitina
-8059591580547,84,Sanaos Nuova Formula,Integratori a base di Mirra
-8059591580554,85,Immuno Bimbi,Integratori a base di Sambuco
-8059591580561,86,Glutatione Forte,Integratori per Sportivi
-8059591580578,88,Liposan Forte Nuova Formula,Integratori per il Colesterolo e i Trigliceridi
-8059591580585,89,Succo di Acai Bio,Integratori Naturali adatti a Vegani e Vegetariani
-8059591580592,90,Succo di Acerola Bio,Integratori Naturali adatti a Vegani e Vegetariani
-8059591580608,91,Succo di Aloe Vera Bio,Integratori per la Pelle Naturali
-8059591580615,92,Succo di Aronia Bio,Integratori Naturali adatti a Vegani e Vegetariani
-8059591580622,93,Succo di Cranberry Bio,Integratori per l'apparato urinario
-8059591580639,94,Succo di Goji Bio,Integratori a base di Goji
-8059591580646,95,Succo di Mangostano Bio,Succhi Biologici Salugea
-8059591580653,96,Succo di Maqui Bio,Giornata della Felicità
-8059591580660,97,Succo di Melograno Bio,Integratori a base di Melograno
-8059591580677,98,Succo di Noni Bio,Succhi Biologici Salugea
-8059591580684,99,Succo di Olivello Spinoso Bio,Integratori per l'abbronzatura
-8059591580691,220,Succo di Sambuco Bio,Succhi Biologici Salugea
-8059591580707,221,Kiomasal,Integratori per Donne
-8059591580738,224,Reflugea Forte,Integratori naturali per lo Stomaco
-8059591580745,225,Intestinum Forte,Integratori naturali per l'intestino
-8059591580752,226,Dimasal Nuova Formula,Integratori a base di Cassia nomame
-8059591580769,227,Prostadoc,Integratori di Selenio
-8059591580776,228,Allergisan,Health & Beauty
-8059591580783,229,Cartilagea,Health & Beauty
-8059591580790,231,Ferro + B12,Health & Beauty
-8059591580806,230,ImmunoGea,Health & Beauty
-8059591580813,232,Goladoc,Health & Beauty
-8059591580837,234,ProbioGea Intestino,Health & Beauty
-8059591580844,235,ProbioGea Donna,Animals & Pet Supplies
-8059591580851,236,ProbioGea Mente,Animals & Pet Supplies
-8059591580875,238,Energea+ Nuova Formula,Integratori per la Stanchezza
-8059591580882,239,LuxGea Pelle,Health & Beauty
-8059591580905,241,Reset Intestino,Health & Beauty
-8059591580912,242,Reflugea Rapido,Health & Beauty
+title,health_area
+Allergisan,
+Biosnel Formula Potenziata,
+Cartilagea,
+Cartilagea (Copia),
+Colonsan Formula Potenziata,Integratori Naturali per Stomaco e Intestino
+Dimasal Nuova Formula,
+Diuresan Formula Potenziata,Integratori Naturali per la Diuresi
+DKE + Magnesio,Integratori Naturali per le Difese Immunitarie e le Ossa
+Energea+ Nuova Formula,Integratori Naturali Energizzanti
+Epasal,Integratori Naturali per il Fegato
+Ferro + B12,
+Glutatione Forte,
+Goladoc,
+Immuno Bimbi,Integratori Naturali per le Difese Immunitarie dei Bambini
+ImmunoGea,
+Intestinum Forte,
+Kiomasal,Integratori Naturali per i Capelli
+Liposan Forte Nuova Formula,Integratori Naturali per Colesterolo e Trigliceridi
+LuxGea Pelle,Integratori di Collagene
+Memosan,Integratori Naturali per Memoria e Concentrazione
+Omega 3 Krill Oil,Integratori Naturali di Omega 3
+Pausanorm Forte,Integratori Naturali per la Menopausa
+ProbioGea Donna,
+ProbioGea Intestino,
+ProbioGea Mente,
+Prostadoc,
+Reflugea Forte,
+Reflugea Rapido,
+Reset Intestino,
+Rilassa Mente,Integratori Naturali Rilassanti
+Sanaos Nuova Formula,"Integratori Naturali per Articolazioni, Tendini e Legamenti"
+Sanuril Formula Potenziata,Integratori Naturali per il Benessere delle Vie Urinarie
+Serena Notte,Integratori Naturali per Dormire
+Sincrovir,Integratori Naturali per il Vigore Maschile
+Sport 1 Endurance,Integratori Naturali per lo Sport e la Resistenza Fisica
+Sport 2 Recupero,Integratori Naturali per il Recupero dello Sportivo
+Succo di Acai Bio,Integratori Naturali per Colesterolo e Trigliceridi
+Succo di Acerola Bio,Integratori Naturali per le Difese Immunitarie e le Ossa
+Succo di Aloe Vera Bio,"Integratori Naturali per Stomaco, Intestino e Depurazione"
+Succo di Aronia Bio,Integratori Naturali Antiossidanti
+Succo di Cranberry Bio,Integratori Naturali per il Benessere delle Vie Urinarie
+Succo di Goji Bio,Integratori Naturali Energizzanti
+Succo di Mangostano Bio,Integratori Naturali per il Benessere Gastrointestinale
+Succo di Maqui Bio,Integratori Naturali Antiossidanti
+Succo di Melograno Bio,Integratori Naturali Antiossidanti
+Succo di Noni Bio,Integratori Naturali Energizzanti
+Succo di Olivello Spinoso Bio,Integratori Naturali Energizzanti
+Succo di Sambuco Bio,Integratori Naturali per le Difese Immunitarie e le Ossa
+Venasal,Integratori Naturali per Vene e Circolazione

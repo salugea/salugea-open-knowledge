@@ -1,208 +1,165 @@
 entity,relation,value
-Venasal,has_health_area,Integratori a base di Rusco
-Venasal,has_brand,Salugea
-Venasal,has_ean,8059591580332
-Venasal,has_url,https://salugea.com/products/venasal?variant=32355388227649&om=14641
-Venasal,has_main_active_compound,Rusco
-DKE + Magnesio,has_health_area,Health & Beauty
-DKE + Magnesio,has_brand,Salugea
-DKE + Magnesio,has_ean,8059591580356
-DKE + Magnesio,has_url,https://salugea.com/products/dke-magnesio?variant=31926520152129&om=14641
-Biosnel Formula Potenziata,has_health_area,Integratori a base di Vite Rossa
-Biosnel Formula Potenziata,has_brand,Salugea
-Biosnel Formula Potenziata,has_ean,8059591580363
-Biosnel Formula Potenziata,has_url,https://salugea.com/products/biosnel?variant=31917024378945&om=14641
-Biosnel Formula Potenziata,has_main_active_compound,Vite Rossa
-Colonsan Formula Potenziata,has_health_area,Integratori Naturali adatti a Vegani e Vegetariani
-Colonsan Formula Potenziata,has_brand,Salugea
-Colonsan Formula Potenziata,has_ean,8059591580370
-Colonsan Formula Potenziata,has_url,https://salugea.com/products/colonsan?variant=31926343303233&om=14641
-Diuresan Formula Potenziata,has_health_area,Integratori a base di Frassino
-Diuresan Formula Potenziata,has_brand,Salugea
-Diuresan Formula Potenziata,has_ean,8059591580387
-Diuresan Formula Potenziata,has_url,https://salugea.com/products/diuresan?variant=31926432301121&om=14641
-Diuresan Formula Potenziata,has_main_active_compound,Frassino
-Memosan,has_health_area,Integratori a base di Schisandra
-Memosan,has_brand,Salugea
-Memosan,has_ean,8059591580424
-Memosan,has_url,https://salugea.com/products/memosan?variant=31926583623745&om=14641
-Memosan,has_main_active_compound,Schisandra
-Omega 3 Krill Oil,has_health_area,Integratori per l'apparato cardiocircolatorio
-Omega 3 Krill Oil,has_brand,Salugea
-Omega 3 Krill Oil,has_ean,8059591580431
-Omega 3 Krill Oil,has_url,https://salugea.com/products/omega-3-krill-oil?variant=31926594568257&om=14641
-Pausanorm Forte,has_health_area,Integratori a base di Kudzu
-Pausanorm Forte,has_brand,Salugea
-Pausanorm Forte,has_ean,8059591580448
-Pausanorm Forte,has_url,https://salugea.com/products/pausanorm-forte?variant=31926599450689&om=14641
-Pausanorm Forte,has_main_active_compound,Kudzu
-Rilassa Mente,has_health_area,Integratori per lo Studio
-Rilassa Mente,has_brand,Salugea
-Rilassa Mente,has_ean,8059591580455
-Rilassa Mente,has_url,https://salugea.com/products/rilassa-mente?variant=31926615179329&om=14641
-Sanuril Formula Potenziata,has_health_area,Integratori a base di Uva Ursina
-Sanuril Formula Potenziata,has_brand,Salugea
-Sanuril Formula Potenziata,has_ean,8059591580479
-Sanuril Formula Potenziata,has_url,https://salugea.com/products/sanuril?variant=31926641524801&om=14641
-Sanuril Formula Potenziata,has_main_active_compound,Uva Ursina
-Serena Notte,has_health_area,Integratori a base di Valeriana
-Serena Notte,has_brand,Salugea
-Serena Notte,has_ean,8059591580486
-Serena Notte,has_url,https://salugea.com/products/serena-notte?variant=31926704504897&om=14641
-Serena Notte,has_main_active_compound,Valeriana
-Sport 1 Endurance,has_health_area,Integratori a base di Suma
-Sport 1 Endurance,has_brand,Salugea
-Sport 1 Endurance,has_ean,8059591580493
-Sport 1 Endurance,has_url,https://salugea.com/products/sport-1-endurance?variant=31926797336641&om=14641
-Sport 1 Endurance,has_main_active_compound,Suma
-Sport 2 Recupero,has_health_area,Integratori Energizzanti Naturali
-Sport 2 Recupero,has_brand,Salugea
-Sport 2 Recupero,has_ean,8059591580509
-Sport 2 Recupero,has_url,https://salugea.com/products/sport-2-recupero?variant=31926801301569&om=14641
-Epasal,has_health_area,Remise en forme
-Epasal,has_brand,Salugea
-Epasal,has_ean,8059591580516
-Epasal,has_url,https://salugea.com/products/epasal?variant=31926534045761&om=14641
-Sincrovir,has_health_area,Integratori a base di L-Ornitina
-Sincrovir,has_brand,Salugea
-Sincrovir,has_ean,8059591580530
-Sincrovir,has_url,https://salugea.com/products/sincrovir?variant=31926714335297&om=14641
-Sincrovir,has_main_active_compound,L-Ornitina
-Sanaos Nuova Formula,has_health_area,Integratori a base di Mirra
-Sanaos Nuova Formula,has_brand,Salugea
-Sanaos Nuova Formula,has_ean,8059591580547
-Sanaos Nuova Formula,has_url,https://salugea.com/products/sanaos?variant=31926631366721&om=14641
-Sanaos Nuova Formula,has_main_active_compound,Mirra
-Immuno Bimbi,has_health_area,Integratori a base di Sambuco
-Immuno Bimbi,has_brand,Salugea
-Immuno Bimbi,has_ean,8059591580554
-Immuno Bimbi,has_url,https://salugea.com/products/immuno-bimbi?variant=54786603614593&om=14641
-Immuno Bimbi,has_main_active_compound,Sambuco
-Glutatione Forte,has_health_area,Integratori per Sportivi
-Glutatione Forte,has_brand,Salugea
-Glutatione Forte,has_ean,8059591580561
-Glutatione Forte,has_url,https://salugea.com/products/glutatione-forte?variant=39841601192001&om=14641
-Liposan Forte Nuova Formula,has_health_area,Integratori per il Colesterolo e i Trigliceridi
-Liposan Forte Nuova Formula,has_brand,Salugea
-Liposan Forte Nuova Formula,has_ean,8059591580578
-Liposan Forte Nuova Formula,has_url,https://salugea.com/products/liposan-forte?variant=31926566387777&om=14641
-Succo di Acai Bio,has_health_area,Integratori Naturali adatti a Vegani e Vegetariani
-Succo di Acai Bio,has_brand,Salugea
-Succo di Acai Bio,has_ean,8059591580585
-Succo di Acai Bio,has_url,https://salugea.com/products/succo-di-acai?variant=39254126100545&om=14641
-Succo di Acerola Bio,has_health_area,Integratori Naturali adatti a Vegani e Vegetariani
-Succo di Acerola Bio,has_brand,Salugea
-Succo di Acerola Bio,has_ean,8059591580592
-Succo di Acerola Bio,has_url,https://salugea.com/products/succo-di-acerola?variant=39254127476801&om=14641
-Succo di Aloe Vera Bio,has_health_area,Integratori per la Pelle Naturali
-Succo di Aloe Vera Bio,has_brand,Salugea
-Succo di Aloe Vera Bio,has_ean,8059591580608
-Succo di Aloe Vera Bio,has_url,https://salugea.com/products/succo-di-aloe-vera?variant=39254130688065&om=14641
-Succo di Aronia Bio,has_health_area,Integratori Naturali adatti a Vegani e Vegetariani
-Succo di Aronia Bio,has_brand,Salugea
-Succo di Aronia Bio,has_ean,8059591580615
-Succo di Aronia Bio,has_url,https://salugea.com/products/succo-di-aronia?variant=39254138585153&om=14641
-Succo di Cranberry Bio,has_health_area,Integratori per l'apparato urinario
-Succo di Cranberry Bio,has_brand,Salugea
-Succo di Cranberry Bio,has_ean,8059591580622
-Succo di Cranberry Bio,has_url,https://salugea.com/products/succo-di-cranberry?variant=39254141272129&om=14641
-Succo di Goji Bio,has_health_area,Integratori a base di Goji
-Succo di Goji Bio,has_brand,Salugea
-Succo di Goji Bio,has_ean,8059591580639
-Succo di Goji Bio,has_url,https://salugea.com/products/succo-di-goji?variant=39254145990721&om=14641
-Succo di Goji Bio,has_main_active_compound,Goji
-Succo di Mangostano Bio,has_health_area,Succhi Biologici Salugea
-Succo di Mangostano Bio,has_brand,Salugea
-Succo di Mangostano Bio,has_ean,8059591580646
-Succo di Mangostano Bio,has_url,https://salugea.com/products/succo-di-mangostano?variant=39254144483393&om=14641
-Succo di Maqui Bio,has_health_area,Giornata della Felicità
-Succo di Maqui Bio,has_brand,Salugea
-Succo di Maqui Bio,has_ean,8059591580653
-Succo di Maqui Bio,has_url,https://salugea.com/products/succo-di-maqui?variant=39254171680833&om=14641
-Succo di Melograno Bio,has_health_area,Integratori a base di Melograno
-Succo di Melograno Bio,has_brand,Salugea
-Succo di Melograno Bio,has_ean,8059591580660
-Succo di Melograno Bio,has_url,https://salugea.com/products/succo-di-melograno?variant=39254172237889&om=14641
-Succo di Melograno Bio,has_main_active_compound,Melograno
-Succo di Noni Bio,has_health_area,Succhi Biologici Salugea
-Succo di Noni Bio,has_brand,Salugea
-Succo di Noni Bio,has_ean,8059591580677
-Succo di Noni Bio,has_url,https://salugea.com/products/succo-di-noni?variant=39254173352001&om=14641
-Succo di Olivello Spinoso Bio,has_health_area,Integratori per l'abbronzatura
-Succo di Olivello Spinoso Bio,has_brand,Salugea
-Succo di Olivello Spinoso Bio,has_ean,8059591580684
-Succo di Olivello Spinoso Bio,has_url,https://salugea.com/products/succo-di-olivello-spinoso?variant=39254174335041&om=14641
-Succo di Sambuco Bio,has_health_area,Succhi Biologici Salugea
-Succo di Sambuco Bio,has_brand,Salugea
-Succo di Sambuco Bio,has_ean,8059591580691
-Succo di Sambuco Bio,has_url,https://salugea.com/products/succo-di-sambuco?variant=39254175219777&om=14641
-Kiomasal,has_health_area,Integratori per Donne
-Kiomasal,has_brand,Salugea
-Kiomasal,has_ean,8059591580707
-Kiomasal,has_url,https://salugea.com/products/kiomasal?variant=32373906145345&om=14641
-Reflugea Forte,has_health_area,Integratori naturali per lo Stomaco
-Reflugea Forte,has_brand,Salugea
-Reflugea Forte,has_ean,8059591580738
-Reflugea Forte,has_url,https://salugea.com/products/reflugea-forte?variant=39807175131201&om=14641
-Intestinum Forte,has_health_area,Integratori naturali per l'intestino
-Intestinum Forte,has_brand,Salugea
-Intestinum Forte,has_ean,8059591580745
-Intestinum Forte,has_url,https://salugea.com/products/intestinum-forte?variant=39915990057025&om=14641
-Dimasal Nuova Formula,has_health_area,Integratori a base di Cassia nomame
-Dimasal Nuova Formula,has_brand,Salugea
-Dimasal Nuova Formula,has_ean,8059591580752
-Dimasal Nuova Formula,has_url,https://salugea.com/products/dimasal?variant=31926406086721&om=14641
-Dimasal Nuova Formula,has_main_active_compound,Cassia nomame
-Prostadoc,has_health_area,Integratori di Selenio
-Prostadoc,has_brand,Salugea
-Prostadoc,has_ean,8059591580769
-Prostadoc,has_url,https://salugea.com/products/prostadoc?variant=40168961736769&om=14641
-Prostadoc,has_main_active_compound,Selenio
-Allergisan,has_health_area,Health & Beauty
-Allergisan,has_brand,Salugea
 Allergisan,has_ean,8059591580776
-Allergisan,has_url,https://salugea.com/products/allergisan?variant=40324165500993&om=14641
-Cartilagea,has_health_area,Health & Beauty
-Cartilagea,has_brand,Salugea
+Allergisan,has_sku,228
+Biosnel Formula Potenziata,has_ean,8059591580363
+Biosnel Formula Potenziata,has_sku,65
 Cartilagea,has_ean,8059591580783
-Cartilagea,has_url,https://salugea.com/products/cartilagea?variant=40355899473985&om=14641
-Ferro + B12,has_health_area,Health & Beauty
-Ferro + B12,has_brand,Salugea
-Ferro + B12,has_ean,8059591580790
-Ferro + B12,has_url,https://salugea.com/products/integratore-ferro-b12?variant=40383972835393&om=14641
-ImmunoGea,has_health_area,Health & Beauty
-ImmunoGea,has_brand,Salugea
-ImmunoGea,has_ean,8059591580806
-ImmunoGea,has_url,https://salugea.com/products/immunogea-integratore-difese-immunitarie-adulti?variant=50722061648201&om=14641
-Goladoc,has_health_area,Health & Beauty
-Goladoc,has_brand,Salugea
-Goladoc,has_ean,8059591580813
-Goladoc,has_url,https://salugea.com/products/goladoc-spray-gola-naturale?variant=50319501525321&om=14641
-ProbioGea Intestino,has_health_area,Health & Beauty
-ProbioGea Intestino,has_brand,Salugea
-ProbioGea Intestino,has_ean,8059591580837
-ProbioGea Intestino,has_url,https://salugea.com/products/probiogea-intestino-probiotici?variant=53623098048897&om=14641
-ProbioGea Donna,has_health_area,Animals & Pet Supplies
-ProbioGea Donna,has_brand,Salugea
-ProbioGea Donna,has_ean,8059591580844
-ProbioGea Donna,has_url,https://salugea.com/products/probiogea-donna-probiotici?variant=53622945939841&om=14641
-ProbioGea Mente,has_health_area,Animals & Pet Supplies
-ProbioGea Mente,has_brand,Salugea
-ProbioGea Mente,has_ean,8059591580851
-ProbioGea Mente,has_url,https://salugea.com/products/probiogea-mente-probiotici?variant=53621961523585&om=14641
-Energea+ Nuova Formula,has_health_area,Integratori per la Stanchezza
-Energea+ Nuova Formula,has_brand,Salugea
+Cartilagea,has_sku,229
+Cartilagea,contains_active,specifici per il benessere delle  cartilagini  e dei tessuti connettivi di  tendini e legamenti.
+Cartilagea (Copia),has_ean,8059591580783
+Cartilagea (Copia),has_sku,229
+Cartilagea (Copia),contains_active,specifici per il benessere delle  cartilagini .
+Colonsan Formula Potenziata,has_ean,8059591580370
+Colonsan Formula Potenziata,has_sku,66
+Colonsan Formula Potenziata,has_health_area,Integratori Naturali per Stomaco e Intestino
+Colonsan Formula Potenziata,contains_active,100% naturali utili per il benessere di stomaco e intestino .
+Dimasal Nuova Formula,has_ean,8059591580752
+Dimasal Nuova Formula,has_sku,226
+Dimasal Nuova Formula,contains_active,100% naturali utili per il controllo del peso.
+Diuresan Formula Potenziata,has_ean,8059591580387
+Diuresan Formula Potenziata,has_sku,67
+Diuresan Formula Potenziata,has_health_area,Integratori Naturali per la Diuresi
+DKE + Magnesio,has_ean,8059591580356
+DKE + Magnesio,has_sku,61
+DKE + Magnesio,has_health_area,Integratori Naturali per le Difese Immunitarie e le Ossa
 Energea+ Nuova Formula,has_ean,8059591580875
-Energea+ Nuova Formula,has_url,https://salugea.com/products/energea?variant=39294334795841&om=14641
-LuxGea Pelle,has_health_area,Health & Beauty
-LuxGea Pelle,has_brand,Salugea
+Energea+ Nuova Formula,has_sku,238
+Energea+ Nuova Formula,has_health_area,Integratori Naturali Energizzanti
+Energea+ Nuova Formula,contains_active,funzionali 100% naturali utili per favorire il supporto energetico
+Energea+ Nuova Formula,contains_active,in modo naturale: una  formula energizzante  che conferisce  forza e vitalità
+Energea+ Nuova Formula,contains_active,sia sul piano fisico che mentale.
+Epasal,has_ean,8059591580516
+Epasal,has_sku,81
+Epasal,has_health_area,Integratori Naturali per il Fegato
+Ferro + B12,has_ean,8059591580790
+Ferro + B12,has_sku,231
+Glutatione Forte,has_ean,8059591580561
+Glutatione Forte,has_sku,86
+Glutatione Forte,contains_active,ad azione antiossidante
+Glutatione Forte,contains_active,unici nel loro genere.  Questo significa detossicazione da tossine
+Glutatione Forte,contains_active,sostegno immunitario
+Glutatione Forte,contains_active,energia e vitalità
+Glutatione Forte,contains_active,protezione degli organi
+Glutatione Forte,contains_active,di cuore e circolazione e tanti altri benefici.
+Goladoc,has_ean,8059591580813
+Goladoc,has_sku,232
+Goladoc,contains_active,naturali utili per il  benessere della gola
+Goladoc,contains_active,del  tono di voce
+Goladoc,contains_active,ad  azione emolliente e lenitiva .
+Immuno Bimbi,has_ean,8059591580554
+Immuno Bimbi,has_sku,85
+Immuno Bimbi,has_health_area,Integratori Naturali per le Difese Immunitarie dei Bambini
+ImmunoGea,has_ean,8059591580806
+ImmunoGea,has_sku,230
+Intestinum Forte,has_ean,8059591580745
+Intestinum Forte,has_sku,225
+Kiomasal,has_ean,8059591580707
+Kiomasal,has_sku,221
+Kiomasal,has_health_area,Integratori Naturali per i Capelli
+Kiomasal,contains_active,brevettati
+Kiomasal,contains_active,100% naturali  e di  ultima generazione  che hanno dimostrato la loro sicurezza ed efficacia attraverso  studi clinici .
+Liposan Forte Nuova Formula,has_ean,8059591580578
+Liposan Forte Nuova Formula,has_sku,88
+Liposan Forte Nuova Formula,has_health_area,Integratori Naturali per Colesterolo e Trigliceridi
 LuxGea Pelle,has_ean,8059591580882
-LuxGea Pelle,has_url,https://salugea.com/products/luxgea-pelle-collagene-da-bere?variant=54017993638273&om=14641
-Reset Intestino,has_health_area,Health & Beauty
-Reset Intestino,has_brand,Salugea
-Reset Intestino,has_ean,8059591580905
-Reset Intestino,has_url,https://salugea.com/products/reset-intestino-integratore-detox?variant=54089191162241&om=14641
-Reflugea Rapido,has_health_area,Health & Beauty
-Reflugea Rapido,has_brand,Salugea
+LuxGea Pelle,has_sku,239
+LuxGea Pelle,has_health_area,Integratori di Collagene
+LuxGea Pelle,contains_active,innovativi utili per sostenere la bellezza della pelle
+LuxGea Pelle,contains_active,supportare la  formazione di collagene dall’interno  e favorire un naturale  effetto antiage .
+Memosan,has_ean,8059591580424
+Memosan,has_sku,71
+Memosan,has_health_area,Integratori Naturali per Memoria e Concentrazione
+Memosan,contains_active,sono rigorosamente in forma di  estratto secco ad alta titolazione  cioè ad alto contenuto di principi attivi
+Memosan,contains_active,gli unici a garantire veramente l’efficacia costante del prodotto.
+Omega 3 Krill Oil,has_ean,8059591580431
+Omega 3 Krill Oil,has_sku,72
+Omega 3 Krill Oil,has_health_area,Integratori Naturali di Omega 3
+Omega 3 Krill Oil,contains_active,attivi di Omega 3 Krill Oil Salugea
+Pausanorm Forte,has_ean,8059591580448
+Pausanorm Forte,has_sku,73
+Pausanorm Forte,has_health_area,Integratori Naturali per la Menopausa
+Pausanorm Forte,contains_active,naturali di Pausanorm Forte
+ProbioGea Donna,has_ean,8059591580844
+ProbioGea Donna,has_sku,235
+ProbioGea Donna,contains_active,100% naturali possono darti beneficio già dalle prime assunzioni.  Per un trattamento “premium” per il benessere della flora batterica vaginale
+ProbioGea Donna,contains_active,puoi anche scegliere la sinergia delle formulazioni del  Programma Flora Donna . È un percorso di benessere che prevede una prima fase in cui “prepari” il terreno all’assunzione dei probiotici.
+ProbioGea Intestino,has_ean,8059591580837
+ProbioGea Intestino,has_sku,234
+ProbioGea Intestino,contains_active,100% naturali possono darti beneficio già dalle prime assunzioni.  Per un trattamento “premium” per il tuo benessere intestinale
+ProbioGea Intestino,contains_active,puoi anche scegliere la sinergia delle formulazioni del  Programma Equilibrio Intestinale . È un percorso di benessere che prevede una prima fase in cui “prepari” il terreno all’assunzione dei probiotici.
+ProbioGea Mente,has_ean,8059591580851
+ProbioGea Mente,has_sku,236
+Prostadoc,has_ean,8059591580769
+Prostadoc,has_sku,227
+Reflugea Forte,has_ean,8059591580738
+Reflugea Forte,has_sku,224
+Reflugea Forte,contains_active,100% naturali utili per  proteggere  le pareti gastriche
+Reflugea Forte,contains_active,modulare la secrezione degli acidi
+Reflugea Forte,contains_active,controllare l’acidità dello stomaco e  favorire così il benessere di stomaco ed esofago nel tempo .
 Reflugea Rapido,has_ean,8059591580912
-Reflugea Rapido,has_url,https://salugea.com/products/reflugea-rapido-antiacido-naturale?variant=54715832861057&om=14641
+Reflugea Rapido,has_sku,242
+Reflugea Rapido,contains_active,selezionati per il loro  effetto   antiacido  e combinati in una  formula multi-azione 3 in 1
+Reflugea Rapido,contains_active,pensata per offrire una  pronta risposta  su più livelli del benessere gastrico.
+Reset Intestino,has_ean,8059591580905
+Reset Intestino,has_sku,241
+Reset Intestino,contains_active,100% naturali utili per una “pulizia” del colon e dell’intestino:  favoriscono il   benessere intestinale attraverso un  “effetto detox”.
+Rilassa Mente,has_ean,8059591580455
+Rilassa Mente,has_sku,74
+Rilassa Mente,has_health_area,Integratori Naturali Rilassanti
+Sanaos Nuova Formula,has_ean,8059591580547
+Sanaos Nuova Formula,has_sku,84
+Sanaos Nuova Formula,has_health_area,"Integratori Naturali per Articolazioni, Tendini e Legamenti"
+Sanuril Formula Potenziata,has_ean,8059591580479
+Sanuril Formula Potenziata,has_sku,76
+Sanuril Formula Potenziata,has_health_area,Integratori Naturali per il Benessere delle Vie Urinarie
+Serena Notte,has_ean,8059591580486
+Serena Notte,has_sku,77
+Serena Notte,has_health_area,Integratori Naturali per Dormire
+Sincrovir,has_ean,8059591580530
+Sincrovir,has_sku,83
+Sincrovir,has_health_area,Integratori Naturali per il Vigore Maschile
+Sport 1 Endurance,has_ean,8059591580493
+Sport 1 Endurance,has_sku,78
+Sport 1 Endurance,has_health_area,Integratori Naturali per lo Sport e la Resistenza Fisica
+Sport 2 Recupero,has_ean,8059591580509
+Sport 2 Recupero,has_sku,79
+Sport 2 Recupero,has_health_area,Integratori Naturali per il Recupero dello Sportivo
+Succo di Acai Bio,has_ean,8059591580585
+Succo di Acai Bio,has_sku,89
+Succo di Acai Bio,has_health_area,Integratori Naturali per Colesterolo e Trigliceridi
+Succo di Acerola Bio,has_ean,8059591580592
+Succo di Acerola Bio,has_sku,90
+Succo di Acerola Bio,has_health_area,Integratori Naturali per le Difese Immunitarie e le Ossa
+Succo di Aloe Vera Bio,has_ean,8059591580608
+Succo di Aloe Vera Bio,has_sku,91
+Succo di Aloe Vera Bio,has_health_area,"Integratori Naturali per Stomaco, Intestino e Depurazione"
+Succo di Aronia Bio,has_ean,8059591580615
+Succo di Aronia Bio,has_sku,92
+Succo di Aronia Bio,has_health_area,Integratori Naturali Antiossidanti
+Succo di Cranberry Bio,has_ean,8059591580622
+Succo di Cranberry Bio,has_sku,93
+Succo di Cranberry Bio,has_health_area,Integratori Naturali per il Benessere delle Vie Urinarie
+Succo di Goji Bio,has_ean,8059591580639
+Succo di Goji Bio,has_sku,94
+Succo di Goji Bio,has_health_area,Integratori Naturali Energizzanti
+Succo di Mangostano Bio,has_ean,8059591580646
+Succo di Mangostano Bio,has_sku,95
+Succo di Mangostano Bio,has_health_area,Integratori Naturali per il Benessere Gastrointestinale
+Succo di Maqui Bio,has_ean,8059591580653
+Succo di Maqui Bio,has_sku,96
+Succo di Maqui Bio,has_health_area,Integratori Naturali Antiossidanti
+Succo di Melograno Bio,has_ean,8059591580660
+Succo di Melograno Bio,has_sku,97
+Succo di Melograno Bio,has_health_area,Integratori Naturali Antiossidanti
+Succo di Noni Bio,has_ean,8059591580677
+Succo di Noni Bio,has_sku,98
+Succo di Noni Bio,has_health_area,Integratori Naturali Energizzanti
+Succo di Olivello Spinoso Bio,has_ean,8059591580684
+Succo di Olivello Spinoso Bio,has_sku,99
+Succo di Olivello Spinoso Bio,has_health_area,Integratori Naturali Energizzanti
+Succo di Sambuco Bio,has_ean,8059591580691
+Succo di Sambuco Bio,has_sku,220
+Succo di Sambuco Bio,has_health_area,Integratori Naturali per le Difese Immunitarie e le Ossa
+Venasal,has_ean,8059591580332
+Venasal,has_sku,87
+Venasal,has_health_area,Integratori Naturali per Vene e Circolazione
