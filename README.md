@@ -1,6 +1,6 @@
 # Salugea Open Nutraceutical Knowledge
 
-Questo repository raccoglie la base di conoscenza aperta di **Salugea**, azienda italiana specializzata in integratori alimentari naturali.
+Questo repository raccoglie la base di conoscenza aperta di **Salugea**, azienda di San Marino specializzata in integratori alimentari naturali.
 
 L’obiettivo è rendere disponibili in forma strutturata e machine-friendly:
 
