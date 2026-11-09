@@ -1,5 +1,9 @@
 # Salugea Open Nutraceutical Knowledge
 
+> **Stato dei dati:** i dataset storici e i collegamenti generati automaticamente richiedono revisione umana. Non usare frasi estratte come ingredienti, relazioni prodotto-beneficio o evidenze cliniche senza verifica. Prezzi, disponibilità e identificativi possono essere obsoleti. Per criteri, limiti e dati verificati consultare [qualità e provenienza](quality/README.md).
+
+
+
 Questo repository raccoglie la base di conoscenza aperta di **Salugea**, azienda di San Marino specializzata in integratori alimentari naturali.
 
 L’obiettivo è rendere disponibili in forma strutturata e machine-friendly:
@@ -17,6 +21,10 @@ in modo che possano essere utilizzati da:
 - sistemi di Intelligenza Artificiale e LLM (Large Language Models)
 
 ---
+
+## Dati raccolti dalle schede prodotto
+
+La cartella [`data-rilevati/`](data-rilevati/) contiene una rilevazione parziale dalle schede Salugea e il relativo stato di copertura. Le quantità sono state estratte automaticamente e richiedono controllo umano sulla fonte e sull’etichetta corrente. Consulta le [istruzioni di lettura e i limiti](quality/README.md) prima del riuso.
 
 ## 📁 Struttura del repository
 
@@ -90,8 +98,8 @@ Anche qui, per ogni tema esistono:
 
 ---
 
-### `/ontology/` (opzionale, se la crei)
-Conterrà file JSON-LD / JSON che descrivono l’ontologia nutraceutica Salugea:
+### `/ontology/`
+Contiene file JSON-LD / JSON che descrivono l’ontologia nutraceutica Salugea:
 
 - entità: prodotti, principi attivi, aree di beneficio, articoli, whitepapers
 - relazioni: containsActiveCompound, targetsHealthArea, documentedIn, hasEvidenceLevel, ecc.
